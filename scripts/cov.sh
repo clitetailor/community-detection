@@ -1,1 +1,1 @@
-py.test --cov=src --cov-config .coveragerc
+py.test --cov=src --cov-config .coveragerc src
