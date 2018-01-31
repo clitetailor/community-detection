@@ -12,7 +12,7 @@ Install
 To install project dependencies, run the following command in cmd or bash:
 
 ```bash
-# use pip3 on Linux
+# use pip3 on linux
 pip install -r requirement.txt
 ```
 
@@ -29,12 +29,18 @@ pytest
 
 # py.test.exe in powershell
 py.test
+
+# use git bash on windows
+scripts/test.sh
 ````
 
 Incase you want to debug test with vscode, run `./test.py`.
 
 Run test coverage:
 
-```
-py.test --cov=src
+```bash
+py.test --cov=src --cov-config .coveragerc
+
+# use git bash on windows
+scripts/cov.sh
 ```
