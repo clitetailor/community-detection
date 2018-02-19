@@ -1,0 +1,498 @@
+- !!python/object:twitter.models.Status
+  _json:
+    contributors: null
+    coordinates: null
+    created_at: Fri Feb 09 02:37:44 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls:
+      - &id005
+        display_url: turing-nlp.github.io
+        expanded_url: https://turing-nlp.github.io
+        indices: [69, 92]
+        url: https://t.co/5HQxR3yqN8
+      user_mentions:
+      - &id007
+        id: 62071829
+        id_str: '62071829'
+        indices: [3, 10]
+        name: Dong Nguyen
+        screen_name: dongng
+      - &id008
+        id: 3697013177
+        id_str: '3697013177'
+        indices: [38, 49]
+        name: The Turing
+        screen_name: turinginst
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 961791194157088769
+    id_str: '961791194157088769'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata: {iso_language_code: en, result_type: recent}
+    place: null
+    possibly_sensitive: false
+    retweet_count: 21
+    retweeted: false
+    retweeted_status: &id001
+      contributors: null
+      coordinates: null
+      created_at: Mon Feb 05 10:53:11 +0000 2018
+      entities:
+        hashtags: []
+        symbols: []
+        urls:
+        - &id002
+          display_url: turing-nlp.github.io
+          expanded_url: https://turing-nlp.github.io
+          indices: [57, 80]
+          url: https://t.co/5HQxR3yqN8
+        user_mentions:
+        - &id004
+          id: 3697013177
+          id_str: '3697013177'
+          indices: [26, 37]
+          name: The Turing
+          screen_name: turinginst
+      favorite_count: 37
+      favorited: false
+      geo: null
+      id: 960466328443408384
+      id_str: '960466328443408384'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      metadata: {iso_language_code: en, result_type: recent}
+      place: null
+      possibly_sensitive: false
+      retweet_count: 21
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: The NLP interest group at @turinginst now has a website! https://t.co/5HQxR3yqN8
+      truncated: false
+      user: &id003
+        contributors_enabled: false
+        created_at: Sat Aug 01 16:59:48 +0000 2009
+        default_profile: false
+        default_profile_image: false
+        description: Natural language processing & computational social science.
+        entities:
+          description:
+            urls: []
+          url:
+            urls:
+            - display_url: dongnguyen.nl
+              expanded_url: http://www.dongnguyen.nl
+              indices: [0, 22]
+              url: http://t.co/TilNGRVoq9
+        favourites_count: 437
+        follow_request_sent: false
+        followers_count: 693
+        following: true
+        friends_count: 294
+        geo_enabled: false
+        has_extended_profile: false
+        id: 62071829
+        id_str: '62071829'
+        is_translation_enabled: false
+        is_translator: false
+        lang: en
+        listed_count: 16
+        location: London, England
+        name: Dong Nguyen
+        notifications: false
+        profile_background_color: '131516'
+        profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+        profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+        profile_background_tile: true
+        profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+        profile_image_url_https: https://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+        profile_link_color: 6C6479
+        profile_sidebar_border_color: EEEEEE
+        profile_sidebar_fill_color: EFEFEF
+        profile_text_color: '333333'
+        profile_use_background_image: true
+        protected: false
+        screen_name: dongng
+        statuses_count: 379
+        time_zone: Amsterdam
+        translator_type: none
+        url: http://t.co/TilNGRVoq9
+        utc_offset: 3600
+        verified: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: 'RT @dongng: The NLP interest group at @turinginst now has a website! https://t.co/5HQxR3yqN8'
+    truncated: false
+    user: &id006
+      contributors_enabled: false
+      created_at: Tue Apr 07 09:27:39 +0000 2015
+      default_profile: true
+      default_profile_image: false
+      description: Promoting researchs related to Vietnamese natural language processing
+      entities:
+        description:
+          urls: []
+      favourites_count: 24
+      follow_request_sent: false
+      followers_count: 217
+      following: false
+      friends_count: 207
+      geo_enabled: false
+      has_extended_profile: false
+      id: 3143245475
+      id_str: '3143245475'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 13
+      location: ''
+      name: Vietnamese NLP
+      notifications: false
+      profile_background_color: C0DEED
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_tile: false
+      profile_image_url: http://pbs.twimg.com/profile_images/585384171192848384/o2QV25Uo_normal.png
+      profile_image_url_https: https://pbs.twimg.com/profile_images/585384171192848384/o2QV25Uo_normal.png
+      profile_link_color: 1DA1F2
+      profile_sidebar_border_color: C0DEED
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: '333333'
+      profile_use_background_image: true
+      protected: false
+      screen_name: vnnlp
+      statuses_count: 157
+      time_zone: Pacific Time (US & Canada)
+      translator_type: none
+      url: null
+      utc_offset: -28800
+      verified: false
+  contributors: null
+  coordinates: null
+  created_at: Fri Feb 09 02:37:44 +0000 2018
+  current_user_retweet: null
+  favorite_count: 0
+  favorited: false
+  full_text: null
+  geo: null
+  hashtags: []
+  id: 961791194157088769
+  id_str: '961791194157088769'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_user_id: null
+  lang: en
+  location: null
+  media: null
+  param_defaults: {contributors: null, coordinates: null, created_at: null, current_user_retweet: null,
+    favorite_count: null, favorited: null, full_text: null, geo: null, hashtags: null,
+    id: null, id_str: null, in_reply_to_screen_name: null, in_reply_to_status_id: null,
+    in_reply_to_user_id: null, lang: null, location: null, media: null, place: null,
+    possibly_sensitive: null, quoted_status: null, quoted_status_id: null, quoted_status_id_str: null,
+    retweet_count: null, retweeted: null, retweeted_status: null, scopes: null, source: null,
+    text: null, truncated: null, urls: null, user: null, user_mentions: null, withheld_copyright: null,
+    withheld_in_countries: null, withheld_scope: null}
+  place: null
+  possibly_sensitive: false
+  quoted_status: null
+  quoted_status_id: null
+  quoted_status_id_str: null
+  retweet_count: 21
+  retweeted: false
+  retweeted_status: !!python/object:twitter.models.Status
+    _json: *id001
+    contributors: null
+    coordinates: null
+    created_at: Mon Feb 05 10:53:11 +0000 2018
+    current_user_retweet: null
+    favorite_count: 37
+    favorited: false
+    full_text: null
+    geo: null
+    hashtags: []
+    id: 960466328443408384
+    id_str: '960466328443408384'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_user_id: null
+    lang: en
+    location: null
+    media: null
+    param_defaults: {contributors: null, coordinates: null, created_at: null, current_user_retweet: null,
+      favorite_count: null, favorited: null, full_text: null, geo: null, hashtags: null,
+      id: null, id_str: null, in_reply_to_screen_name: null, in_reply_to_status_id: null,
+      in_reply_to_user_id: null, lang: null, location: null, media: null, place: null,
+      possibly_sensitive: null, quoted_status: null, quoted_status_id: null, quoted_status_id_str: null,
+      retweet_count: null, retweeted: null, retweeted_status: null, scopes: null,
+      source: null, text: null, truncated: null, urls: null, user: null, user_mentions: null,
+      withheld_copyright: null, withheld_in_countries: null, withheld_scope: null}
+    place: null
+    possibly_sensitive: false
+    quoted_status: null
+    quoted_status_id: null
+    quoted_status_id_str: null
+    retweet_count: 21
+    retweeted: false
+    retweeted_status: null
+    scopes: null
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: The NLP interest group at @turinginst now has a website! https://t.co/5HQxR3yqN8
+    truncated: false
+    tweet_mode: compatibility
+    urls:
+    - !!python/object:twitter.models.Url
+      _json: *id002
+      expanded_url: https://turing-nlp.github.io
+      param_defaults: {expanded_url: null, url: null}
+      url: https://t.co/5HQxR3yqN8
+    user: !!python/object:twitter.models.User
+      _json: *id003
+      contributors_enabled: false
+      created_at: Sat Aug 01 16:59:48 +0000 2009
+      default_profile: false
+      default_profile_image: false
+      description: Natural language processing & computational social science.
+      email: null
+      favourites_count: 437
+      followers_count: 693
+      following: true
+      friends_count: 294
+      geo_enabled: false
+      id: 62071829
+      lang: en
+      listed_count: 16
+      location: London, England
+      name: Dong Nguyen
+      notifications: false
+      param_defaults: {contributors_enabled: null, created_at: null, default_profile: null,
+        default_profile_image: null, description: null, email: null, favourites_count: null,
+        followers_count: null, following: null, friends_count: null, geo_enabled: null,
+        id: null, lang: null, listed_count: null, location: null, name: null, notifications: null,
+        profile_background_color: null, profile_background_image_url: null, profile_background_tile: null,
+        profile_banner_url: null, profile_image_url: null, profile_link_color: null,
+        profile_sidebar_fill_color: null, profile_text_color: null, protected: null,
+        screen_name: null, status: null, statuses_count: null, time_zone: null, url: null,
+        utc_offset: null, verified: null}
+      profile_background_color: '131516'
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+      profile_background_tile: true
+      profile_banner_url: null
+      profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+      profile_link_color: 6C6479
+      profile_sidebar_fill_color: EFEFEF
+      profile_text_color: '333333'
+      protected: false
+      screen_name: dongng
+      status: null
+      statuses_count: 379
+      time_zone: Amsterdam
+      url: http://t.co/TilNGRVoq9
+      utc_offset: 3600
+      verified: false
+    user_mentions:
+    - !!python/object:twitter.models.User
+      _json: *id004
+      contributors_enabled: null
+      created_at: null
+      default_profile: null
+      default_profile_image: null
+      description: null
+      email: null
+      favourites_count: null
+      followers_count: null
+      following: null
+      friends_count: null
+      geo_enabled: null
+      id: 3697013177
+      lang: null
+      listed_count: null
+      location: null
+      name: The Turing
+      notifications: null
+      param_defaults: {contributors_enabled: null, created_at: null, default_profile: null,
+        default_profile_image: null, description: null, email: null, favourites_count: null,
+        followers_count: null, following: null, friends_count: null, geo_enabled: null,
+        id: null, lang: null, listed_count: null, location: null, name: null, notifications: null,
+        profile_background_color: null, profile_background_image_url: null, profile_background_tile: null,
+        profile_banner_url: null, profile_image_url: null, profile_link_color: null,
+        profile_sidebar_fill_color: null, profile_text_color: null, protected: null,
+        screen_name: null, status: null, statuses_count: null, time_zone: null, url: null,
+        utc_offset: null, verified: null}
+      profile_background_color: null
+      profile_background_image_url: null
+      profile_background_tile: null
+      profile_banner_url: null
+      profile_image_url: null
+      profile_link_color: null
+      profile_sidebar_fill_color: null
+      profile_text_color: null
+      protected: null
+      screen_name: turinginst
+      status: null
+      statuses_count: null
+      time_zone: null
+      url: null
+      utc_offset: null
+      verified: null
+    withheld_copyright: null
+    withheld_in_countries: null
+    withheld_scope: null
+  scopes: null
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: 'RT @dongng: The NLP interest group at @turinginst now has a website! https://t.co/5HQxR3yqN8'
+  truncated: false
+  tweet_mode: compatibility
+  urls:
+  - !!python/object:twitter.models.Url
+    _json: *id005
+    expanded_url: https://turing-nlp.github.io
+    param_defaults: {expanded_url: null, url: null}
+    url: https://t.co/5HQxR3yqN8
+  user: !!python/object:twitter.models.User
+    _json: *id006
+    contributors_enabled: false
+    created_at: Tue Apr 07 09:27:39 +0000 2015
+    default_profile: true
+    default_profile_image: false
+    description: Promoting researchs related to Vietnamese natural language processing
+    email: null
+    favourites_count: 24
+    followers_count: 217
+    following: false
+    friends_count: 207
+    geo_enabled: false
+    id: 3143245475
+    lang: en
+    listed_count: 13
+    location: ''
+    name: Vietnamese NLP
+    notifications: false
+    param_defaults: {contributors_enabled: null, created_at: null, default_profile: null,
+      default_profile_image: null, description: null, email: null, favourites_count: null,
+      followers_count: null, following: null, friends_count: null, geo_enabled: null,
+      id: null, lang: null, listed_count: null, location: null, name: null, notifications: null,
+      profile_background_color: null, profile_background_image_url: null, profile_background_tile: null,
+      profile_banner_url: null, profile_image_url: null, profile_link_color: null,
+      profile_sidebar_fill_color: null, profile_text_color: null, protected: null,
+      screen_name: null, status: null, statuses_count: null, time_zone: null, url: null,
+      utc_offset: null, verified: null}
+    profile_background_color: C0DEED
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_banner_url: null
+    profile_image_url: http://pbs.twimg.com/profile_images/585384171192848384/o2QV25Uo_normal.png
+    profile_link_color: 1DA1F2
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    protected: false
+    screen_name: vnnlp
+    status: null
+    statuses_count: 157
+    time_zone: Pacific Time (US & Canada)
+    url: null
+    utc_offset: -28800
+    verified: false
+  user_mentions:
+  - !!python/object:twitter.models.User
+    _json: *id007
+    contributors_enabled: null
+    created_at: null
+    default_profile: null
+    default_profile_image: null
+    description: null
+    email: null
+    favourites_count: null
+    followers_count: null
+    following: null
+    friends_count: null
+    geo_enabled: null
+    id: 62071829
+    lang: null
+    listed_count: null
+    location: null
+    name: Dong Nguyen
+    notifications: null
+    param_defaults: {contributors_enabled: null, created_at: null, default_profile: null,
+      default_profile_image: null, description: null, email: null, favourites_count: null,
+      followers_count: null, following: null, friends_count: null, geo_enabled: null,
+      id: null, lang: null, listed_count: null, location: null, name: null, notifications: null,
+      profile_background_color: null, profile_background_image_url: null, profile_background_tile: null,
+      profile_banner_url: null, profile_image_url: null, profile_link_color: null,
+      profile_sidebar_fill_color: null, profile_text_color: null, protected: null,
+      screen_name: null, status: null, statuses_count: null, time_zone: null, url: null,
+      utc_offset: null, verified: null}
+    profile_background_color: null
+    profile_background_image_url: null
+    profile_background_tile: null
+    profile_banner_url: null
+    profile_image_url: null
+    profile_link_color: null
+    profile_sidebar_fill_color: null
+    profile_text_color: null
+    protected: null
+    screen_name: dongng
+    status: null
+    statuses_count: null
+    time_zone: null
+    url: null
+    utc_offset: null
+    verified: null
+  - !!python/object:twitter.models.User
+    _json: *id008
+    contributors_enabled: null
+    created_at: null
+    default_profile: null
+    default_profile_image: null
+    description: null
+    email: null
+    favourites_count: null
+    followers_count: null
+    following: null
+    friends_count: null
+    geo_enabled: null
+    id: 3697013177
+    lang: null
+    listed_count: null
+    location: null
+    name: The Turing
+    notifications: null
+    param_defaults: {contributors_enabled: null, created_at: null, default_profile: null,
+      default_profile_image: null, description: null, email: null, favourites_count: null,
+      followers_count: null, following: null, friends_count: null, geo_enabled: null,
+      id: null, lang: null, listed_count: null, location: null, name: null, notifications: null,
+      profile_background_color: null, profile_background_image_url: null, profile_background_tile: null,
+      profile_banner_url: null, profile_image_url: null, profile_link_color: null,
+      profile_sidebar_fill_color: null, profile_text_color: null, protected: null,
+      screen_name: null, status: null, statuses_count: null, time_zone: null, url: null,
+      utc_offset: null, verified: null}
+    profile_background_color: null
+    profile_background_image_url: null
+    profile_background_tile: null
+    profile_banner_url: null
+    profile_image_url: null
+    profile_link_color: null
+    profile_sidebar_fill_color: null
+    profile_text_color: null
+    protected: null
+    screen_name: turinginst
+    status: null
+    statuses_count: null
+    time_zone: null
+    url: null
+    utc_offset: null
+    verified: null
+  withheld_copyright: null
+  withheld_in_countries: null
+  withheld_scope: null
