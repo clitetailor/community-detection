@@ -3,6 +3,7 @@ import yaml
 import json
 
 if __name__ == "__main__":
+    # Check app configurations.
     with open("config.sample.yaml", "r+") as read_stream, \
             open("config.yaml", "w") as write_stream:
         try:
@@ -23,14 +24,14 @@ if __name__ == "__main__":
                     yaml.dump(sample_config, read_stream,
                               default_flow_style=False)
                     read_stream.truncate()
-
                     break
 
         except yaml.YAMLError as error:
             print(error)
 
+    # Get tweets from 'vnnlp' community.
     with open("config.yaml", "r") as read_stream, \
-        open("output.yaml", "w") as write_stream:
+            open("output.yaml", "w") as write_stream:
         try:
             config = yaml.load(read_stream)
             api = TwitterAPI(**config)
