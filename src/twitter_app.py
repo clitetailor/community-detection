@@ -1,50 +1,52 @@
-from TwitterAPI import TwitterAPI
+import TwitterAPI
 import yaml
-import json
+import conf
 
 if __name__ == "__main__":
-    # Check app configurations.
-    with open("config.sample.yaml", "r+") as read_stream, \
-            open("config.yaml", "w") as write_stream:
-        try:
-            config = yaml.load(read_stream)
-            keys = ["consumer_key", "consumer_secret",
-                    "access_token_key", "access_token_secret"]
-
-            for key in keys:
-                if config[key] != "<{}>".format(key).replace('_', '-'):
-                    yaml.dump(config, write_stream, default_flow_style=False)
-
-                    sample_config = {}
-                    for key in keys:
-                        sample_config[key] = "<{}>".format(
-                            key).replace('_', '-')
-
-                    read_stream.seek(0)
-                    yaml.dump(sample_config, read_stream,
-                              default_flow_style=False)
-                    read_stream.truncate()
-                    break
-
-        except yaml.YAMLError as error:
-            print(error)
+    conf.check_conf()
 
     # Get tweets from 'vnnlp' community.
     with open("config.yaml", "r") as read_stream, \
-            open("output.yaml", "w") as write_stream:
-        try:
-            config = yaml.load(read_stream)
-            api = TwitterAPI(**config)
-            data = {
-                'screen_name': 'vnnlp'
-            }
-            result = api.request('statuses/user_timeline', data)
-            r = []
-            for item in result:
-                r.append(item)
+            open("output.yaml", "a") as write_stream:
+        max_id = None
+        crawl_status = {}
 
-            yaml.dump(r, write_stream)
-        except yaml.YAMLError as error:
+        try:
+            lock_stream = open("lock.yaml", "r")
+
+            crawl_status = yaml.load(lock_stream)
+            max_id = crawl_status["statuses/user_timeline"]["max_id"]
+        except Exception as error:
             print(error)
-        except error:
-            print(error)
+
+        config = yaml.load(read_stream)
+        api = TwitterAPI.TwitterAPI(**config)
+        data = {
+            'screen_name': 'vnnlp',
+            'count': 1
+        }
+
+        max_id = '975965681354129408'
+
+        if max_id:
+            data["max_id"] = max_id
+
+        r = TwitterAPI.TwitterPager(
+            api, "statuses/user_timeline", data)
+
+        new_max_id = None
+
+        for item in r.get_iterator():
+            yaml.dump([item], write_stream)
+            if "id_str" in item:
+                new_max_id = item["id_str"]
+        
+        if new_max_id:
+            with open("lock.yaml", "w") as lock_stream:
+                if not crawl_status:
+                    crawl_status = {}
+
+                crawl_status["status/user_timeline"] = {
+                    "max_id": new_max_id
+                }
+                yaml.dump(crawl_status, lock_stream)
