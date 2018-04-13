@@ -2,6 +2,7 @@ import TwitterAPI
 import yaml
 import conf
 
+
 def main():
     conf.check_conf()
 
@@ -13,18 +14,18 @@ def main():
 
     with open("lock.yaml", "r") as lock_file:
         crawl_status = yaml.load(lock_file)
-    
+
     if not crawl_status:
         crawl_status = {}
-    
-    api = TwitterAPI.TwitterAPI( ** crawl_config)
+
+    api = TwitterAPI.TwitterAPI(** crawl_config)
     data = {
         "screen_name": "vnnlp"
     }
 
     if "max_id" in crawl_status:
         data["max_id"] = crawl_status["max_id"] - 1
-    
+
     max_id = None
     try:
         with open("output.yaml", "a") as output_file:
@@ -40,11 +41,12 @@ def main():
 
     if max_id:
         crawl_status["max_id"] = max_id
-    
+
     with open("lock.yaml", "w") as lock_file:
         yaml.dump(crawl_status, lock_file, default_flow_style=False)
 
     return
+
 
 if __name__ == "__main__":
     main()
