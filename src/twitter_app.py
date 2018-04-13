@@ -2,51 +2,49 @@ import TwitterAPI
 import yaml
 import conf
 
-if __name__ == "__main__":
+def main():
     conf.check_conf()
 
-    # Get tweets from 'vnnlp' community.
-    with open("config.yaml", "r") as read_stream, \
-            open("output.yaml", "a") as write_stream:
-        max_id = None
+    with open("config.yaml", "r") as config_file:
+        crawl_config = yaml.load(config_file)
+
+    if not crawl_config:
+        return
+
+    with open("lock.yaml", "r") as lock_file:
+        crawl_status = yaml.load(lock_file)
+    
+    if not crawl_status:
         crawl_status = {}
+    
+    api = TwitterAPI.TwitterAPI( ** crawl_config)
+    data = {
+        "screen_name": "vnnlp"
+    }
 
-        try:
-            lock_stream = open("lock.yaml", "r")
+    if "max_id" in crawl_status:
+        data["max_id"] = crawl_status["max_id"] - 1
+    
+    max_id = None
+    try:
+        with open("output.yaml", "a") as output_file:
+            r = TwitterAPI.TwitterPager(api, "statuses/user_timeline", data)
+            for item in r.get_iterator():
+                yaml.dump([item], output_file, default_flow_style=False)
 
-            crawl_status = yaml.load(lock_stream)
-            max_id = crawl_status["statuses/user_timeline"]["max_id"]
-        except Exception as error:
-            print(error)
+                if "id" in item:
+                    max_id = item["id"]
 
-        config = yaml.load(read_stream)
-        api = TwitterAPI.TwitterAPI(**config)
-        data = {
-            'screen_name': 'vnnlp',
-            'count': 1
-        }
+    except KeyboardInterrupt:
+        pass
 
-        max_id = '975965681354129408'
+    if max_id:
+        crawl_status["max_id"] = max_id
+    
+    with open("lock.yaml", "w") as lock_file:
+        yaml.dump(crawl_status, lock_file, default_flow_style=False)
 
-        if max_id:
-            data["max_id"] = max_id
+    return
 
-        r = TwitterAPI.TwitterPager(
-            api, "statuses/user_timeline", data)
-
-        new_max_id = None
-
-        for item in r.get_iterator():
-            yaml.dump([item], write_stream)
-            if "id_str" in item:
-                new_max_id = item["id_str"]
-        
-        if new_max_id:
-            with open("lock.yaml", "w") as lock_stream:
-                if not crawl_status:
-                    crawl_status = {}
-
-                crawl_status["status/user_timeline"] = {
-                    "max_id": new_max_id
-                }
-                yaml.dump(crawl_status, lock_stream)
+if __name__ == "__main__":
+    main()
