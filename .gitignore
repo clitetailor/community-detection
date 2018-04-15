@@ -3,5 +3,4 @@ __pycache__
 .coverage
 .vscode
 envs
-config.yaml
-output.yaml
+src/**/*.yaml
