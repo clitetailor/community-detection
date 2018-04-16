@@ -1,0 +1,1072 @@
+- contributors: null
+  coordinates: null
+  created_at: Fri Apr 13 11:00:02 +0000 2018
+  entities:
+    hashtags: []
+    symbols: []
+    urls: []
+    user_mentions:
+    - id: 21815759
+      id_str: '21815759'
+      indices:
+      - 3
+      - 19
+      name: Charles Sutton
+      screen_name: RandomlyWalking
+  favorite_count: 0
+  favorited: false
+  geo: null
+  id: 984748035916926976
+  id_str: '984748035916926976'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: null
+  in_reply_to_user_id_str: null
+  is_quote_status: false
+  lang: en
+  metadata:
+    iso_language_code: en
+    result_type: recent
+  place: null
+  retweet_count: 60
+  retweeted: false
+  retweeted_status:
+    contributors: null
+    coordinates: null
+    created_at: Sun Apr 08 00:03:11 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls:
+      - display_url: "twitter.com/i/web/status/9\u2026"
+        expanded_url: https://twitter.com/i/web/status/982770796920582144
+        indices:
+        - 117
+        - 140
+        url: https://t.co/RLrC2hXzPA
+      user_mentions: []
+    favorite_count: 204
+    favorited: false
+    geo: null
+    id: 982770796920582144
+    id_str: '982770796920582144'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata:
+      iso_language_code: en
+      result_type: recent
+    place: null
+    possibly_sensitive: false
+    retweet_count: 60
+    retweeted: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: "I've been reflecting on why the work of research can be so stressful. One\
+      \ reason is that it's so easy to confuse ou\u2026 https://t.co/RLrC2hXzPA"
+    truncated: true
+    user:
+      contributors_enabled: false
+      created_at: Wed Feb 25 00:12:29 +0000 2009
+      default_profile: false
+      default_profile_image: false
+      description: "Academic @InfAtEd. Fellow @turinginst. Visitor @GoogleBrain. \
+        \ Machine learning, deep learning, programming languages, software engineering.\
+        \        \u2764\uFE0Fs:\U0001F431\U0001F436\u2615\uFE0F"
+      entities:
+        description:
+          urls: []
+        url:
+          urls:
+          - display_url: homepages.inf.ed.ac.uk/csutton/
+            expanded_url: http://homepages.inf.ed.ac.uk/csutton/
+            indices:
+            - 0
+            - 23
+            url: https://t.co/Xwi2ikTwPk
+      favourites_count: 605
+      follow_request_sent: false
+      followers_count: 6026
+      following: false
+      friends_count: 421
+      geo_enabled: true
+      has_extended_profile: false
+      id: 21815759
+      id_str: '21815759'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 162
+      location: Edinburgh, UK
+      name: Charles Sutton
+      notifications: false
+      profile_background_color: '000000'
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme5/bg.gif
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme5/bg.gif
+      profile_background_tile: false
+      profile_banner_url: https://pbs.twimg.com/profile_banners/21815759/1460585684
+      profile_image_url: http://pbs.twimg.com/profile_images/720373384501149696/dvhtzpHN_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/720373384501149696/dvhtzpHN_normal.jpg
+      profile_link_color: 1B95E0
+      profile_sidebar_border_color: '000000'
+      profile_sidebar_fill_color: '000000'
+      profile_text_color: '000000'
+      profile_use_background_image: false
+      protected: false
+      screen_name: RandomlyWalking
+      statuses_count: 1277
+      time_zone: Edinburgh
+      translator_type: regular
+      url: https://t.co/Xwi2ikTwPk
+      utc_offset: 3600
+      verified: false
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: "RT @RandomlyWalking: I've been reflecting on why the work of research can\
+    \ be so stressful. One reason is that it's so easy to confuse our c\u2026"
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Sat Aug 01 16:59:48 +0000 2009
+    default_profile: false
+    default_profile_image: false
+    description: Natural language processing & computational social science.
+    entities:
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: dongnguyen.nl
+          expanded_url: http://www.dongnguyen.nl
+          indices:
+          - 0
+          - 22
+          url: http://t.co/TilNGRVoq9
+    favourites_count: 454
+    follow_request_sent: false
+    followers_count: 710
+    following: true
+    friends_count: 297
+    geo_enabled: false
+    has_extended_profile: false
+    id: 62071829
+    id_str: '62071829'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 16
+    location: London, England
+    name: Dong Nguyen
+    notifications: false
+    profile_background_color: '131516'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_tile: true
+    profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_link_color: 6C6479
+    profile_sidebar_border_color: EEEEEE
+    profile_sidebar_fill_color: EFEFEF
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: dongng
+    statuses_count: 390
+    time_zone: Amsterdam
+    translator_type: none
+    url: http://t.co/TilNGRVoq9
+    utc_offset: 7200
+    verified: false
+- contributors: null
+  coordinates: null
+  created_at: Wed Apr 11 15:59:11 +0000 2018
+  entities:
+    hashtags: []
+    symbols: []
+    urls: []
+    user_mentions:
+    - id: 737637373
+      id_str: '737637373'
+      indices:
+      - 3
+      - 19
+      name: Jillian Scudder
+      screen_name: Jillian_Scudder
+  favorite_count: 0
+  favorited: false
+  geo: null
+  id: 984098546805825536
+  id_str: '984098546805825536'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: null
+  in_reply_to_user_id_str: null
+  is_quote_status: false
+  lang: en
+  metadata:
+    iso_language_code: en
+    result_type: recent
+  place: null
+  retweet_count: 183
+  retweeted: false
+  retweeted_status:
+    contributors: null
+    coordinates: null
+    created_at: Tue Apr 10 00:53:57 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls:
+      - display_url: "twitter.com/i/web/status/9\u2026"
+        expanded_url: https://twitter.com/i/web/status/983508348543913984
+        indices:
+        - 117
+        - 140
+        url: https://t.co/erNLOjjid0
+      user_mentions: []
+    favorite_count: 573
+    favorited: false
+    geo: null
+    id: 983508348543913984
+    id_str: '983508348543913984'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata:
+      iso_language_code: en
+      result_type: recent
+    place: null
+    possibly_sensitive: false
+    retweet_count: 183
+    retweeted: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: "okay how many of you jokers knew that there's a \"make my plot look like\
+      \ xkcd\" option built into matplotlib and DIDN\u2026 https://t.co/erNLOjjid0"
+    truncated: true
+    user:
+      contributors_enabled: false
+      created_at: Sat Aug 04 23:50:52 +0000 2012
+      default_profile: false
+      default_profile_image: false
+      description: PhD in astrophysics. Assistant professor at @oberlincollege! I
+        study galaxies & write @astroquizzical (appearing in Forbes).
+      entities:
+        description:
+          urls: []
+        url:
+          urls:
+          - display_url: jillianscudder.com
+            expanded_url: http://www.jillianscudder.com
+            indices:
+            - 0
+            - 22
+            url: http://t.co/DK9VSLWHYV
+      favourites_count: 11220
+      follow_request_sent: false
+      followers_count: 1760
+      following: false
+      friends_count: 456
+      geo_enabled: false
+      has_extended_profile: true
+      id: 737637373
+      id_str: '737637373'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 119
+      location: ''
+      name: Jillian Scudder
+      notifications: false
+      profile_background_color: '000000'
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme7/bg.gif
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme7/bg.gif
+      profile_background_tile: false
+      profile_banner_url: https://pbs.twimg.com/profile_banners/737637373/1401480257
+      profile_image_url: http://pbs.twimg.com/profile_images/708247524121956352/g9cfl6ce_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/708247524121956352/g9cfl6ce_normal.jpg
+      profile_link_color: 052F72
+      profile_sidebar_border_color: '000000'
+      profile_sidebar_fill_color: '000000'
+      profile_text_color: '000000'
+      profile_use_background_image: false
+      protected: false
+      screen_name: Jillian_Scudder
+      statuses_count: 9355
+      time_zone: Pacific Time (US & Canada)
+      translator_type: none
+      url: http://t.co/DK9VSLWHYV
+      utc_offset: -25200
+      verified: false
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: "RT @Jillian_Scudder: okay how many of you jokers knew that there's a \"make\
+    \ my plot look like xkcd\" option built into matplotlib and DIDN'T\u2026"
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Sat Aug 01 16:59:48 +0000 2009
+    default_profile: false
+    default_profile_image: false
+    description: Natural language processing & computational social science.
+    entities:
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: dongnguyen.nl
+          expanded_url: http://www.dongnguyen.nl
+          indices:
+          - 0
+          - 22
+          url: http://t.co/TilNGRVoq9
+    favourites_count: 454
+    follow_request_sent: false
+    followers_count: 710
+    following: true
+    friends_count: 297
+    geo_enabled: false
+    has_extended_profile: false
+    id: 62071829
+    id_str: '62071829'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 16
+    location: London, England
+    name: Dong Nguyen
+    notifications: false
+    profile_background_color: '131516'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_tile: true
+    profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_link_color: 6C6479
+    profile_sidebar_border_color: EEEEEE
+    profile_sidebar_fill_color: EFEFEF
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: dongng
+    statuses_count: 390
+    time_zone: Amsterdam
+    translator_type: none
+    url: http://t.co/TilNGRVoq9
+    utc_offset: 7200
+    verified: false
+- contributors: null
+  coordinates: null
+  created_at: Mon Apr 09 19:34:25 +0000 2018
+  entities:
+    hashtags: []
+    symbols: []
+    urls: []
+    user_mentions:
+    - id: 57571700
+      id_str: '57571700'
+      indices:
+      - 3
+      - 15
+      name: Taha Yasseri
+      screen_name: TahaYasseri
+  favorite_count: 0
+  favorited: false
+  geo: null
+  id: 983427933548183554
+  id_str: '983427933548183554'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: null
+  in_reply_to_user_id_str: null
+  is_quote_status: false
+  lang: en
+  metadata:
+    iso_language_code: en
+    result_type: recent
+  place: null
+  retweet_count: 4
+  retweeted: false
+  retweeted_status:
+    contributors: null
+    coordinates: null
+    created_at: Mon Apr 09 16:31:22 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls:
+      - display_url: "twitter.com/i/web/status/9\u2026"
+        expanded_url: https://twitter.com/i/web/status/983381869944360960
+        indices:
+        - 117
+        - 140
+        url: https://t.co/ges36eaH9d
+      user_mentions: []
+    favorite_count: 11
+    favorited: false
+    geo: null
+    id: 983381869944360960
+    id_str: '983381869944360960'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata:
+      iso_language_code: en
+      result_type: recent
+    place: null
+    possibly_sensitive: false
+    retweet_count: 4
+    retweeted: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: "The deviation between Crowd Annotators vs Expert Annotator in an Online\
+      \ Hate detection project is being presented b\u2026 https://t.co/ges36eaH9d"
+    truncated: true
+    user:
+      contributors_enabled: false
+      created_at: Fri Jul 17 06:25:31 +0000 2009
+      default_profile: false
+      default_profile_image: false
+      description: Assistant Professor in Computational Social Science @oiioxford
+        University of Oxford and Alan Turing Fellow @turinginst. PhD in Physics. Interested
+        in Data.
+      entities:
+        description:
+          urls: []
+        url:
+          urls:
+          - display_url: oii.ox.ac.uk/people/yasseri/
+            expanded_url: http://www.oii.ox.ac.uk/people/yasseri/
+            indices:
+            - 0
+            - 22
+            url: http://t.co/CNSumxN3ep
+      favourites_count: 85
+      follow_request_sent: false
+      followers_count: 4755
+      following: false
+      friends_count: 75
+      geo_enabled: false
+      has_extended_profile: true
+      id: 57571700
+      id_str: '57571700'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 192
+      location: Oxford
+      name: Taha Yasseri
+      notifications: false
+      profile_background_color: C0DEED
+      profile_background_image_url: http://pbs.twimg.com/profile_background_images/731560088/fa12dfcd6fdb786b63e3334bc191a8dd.png
+      profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/731560088/fa12dfcd6fdb786b63e3334bc191a8dd.png
+      profile_background_tile: true
+      profile_banner_url: https://pbs.twimg.com/profile_banners/57571700/1420760076
+      profile_image_url: http://pbs.twimg.com/profile_images/553330447413833729/mShUX9ZG_normal.jpeg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/553330447413833729/mShUX9ZG_normal.jpeg
+      profile_link_color: ABB8C2
+      profile_sidebar_border_color: FFFFFF
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: 0084B4
+      profile_use_background_image: true
+      protected: false
+      screen_name: TahaYasseri
+      statuses_count: 2995
+      time_zone: London
+      translator_type: none
+      url: http://t.co/CNSumxN3ep
+      utc_offset: 3600
+      verified: true
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: "RT @TahaYasseri: The deviation between Crowd Annotators vs Expert Annotator\
+    \ in an Online Hate detection project is being presented by @Zeer\u2026"
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Sat Aug 01 16:59:48 +0000 2009
+    default_profile: false
+    default_profile_image: false
+    description: Natural language processing & computational social science.
+    entities:
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: dongnguyen.nl
+          expanded_url: http://www.dongnguyen.nl
+          indices:
+          - 0
+          - 22
+          url: http://t.co/TilNGRVoq9
+    favourites_count: 454
+    follow_request_sent: false
+    followers_count: 710
+    following: true
+    friends_count: 297
+    geo_enabled: false
+    has_extended_profile: false
+    id: 62071829
+    id_str: '62071829'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 16
+    location: London, England
+    name: Dong Nguyen
+    notifications: false
+    profile_background_color: '131516'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_tile: true
+    profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_link_color: 6C6479
+    profile_sidebar_border_color: EEEEEE
+    profile_sidebar_fill_color: EFEFEF
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: dongng
+    statuses_count: 390
+    time_zone: Amsterdam
+    translator_type: none
+    url: http://t.co/TilNGRVoq9
+    utc_offset: 7200
+    verified: false
+- contributors: null
+  coordinates: null
+  created_at: Fri Apr 06 15:46:40 +0000 2018
+  entities:
+    hashtags: []
+    symbols: []
+    urls: []
+    user_mentions:
+    - id: 2950391813
+      id_str: '2950391813'
+      indices:
+      - 3
+      - 12
+      name: Jack Grieve
+      screen_name: JWGrieve
+  favorite_count: 0
+  favorited: false
+  geo: null
+  id: 982283454678216704
+  id_str: '982283454678216704'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: null
+  in_reply_to_user_id_str: null
+  is_quote_status: false
+  lang: en
+  metadata:
+    iso_language_code: en
+    result_type: recent
+  place: null
+  retweet_count: 5
+  retweeted: false
+  retweeted_status:
+    contributors: null
+    coordinates: null
+    created_at: Fri Apr 06 13:09:31 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls: []
+      user_mentions: []
+    favorite_count: 5
+    favorited: false
+    geo: null
+    id: 982243909316169730
+    id_str: '982243909316169730'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata:
+      iso_language_code: en
+      result_type: recent
+    place: null
+    retweet_count: 5
+    retweeted: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: What's a sociolinguistic variable?
+    truncated: false
+    user:
+      contributors_enabled: false
+      created_at: Tue Dec 30 01:37:19 +0000 2014
+      default_profile: false
+      default_profile_image: false
+      description: Corpus Linguistics, Dialectology, Forensic Linguistics, Language
+        Variation & Change
+      entities:
+        description:
+          urls: []
+        url:
+          urls:
+          - display_url: sites.google.com/view/grievejw
+            expanded_url: https://sites.google.com/view/grievejw
+            indices:
+            - 0
+            - 23
+            url: https://t.co/OWX6JRWKH1
+      favourites_count: 2678
+      follow_request_sent: false
+      followers_count: 2442
+      following: false
+      friends_count: 419
+      geo_enabled: false
+      has_extended_profile: false
+      id: 2950391813
+      id_str: '2950391813'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 79
+      location: University of Birmingham, UK
+      name: Jack Grieve
+      notifications: false
+      profile_background_color: FFFFFF
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_tile: false
+      profile_banner_url: https://pbs.twimg.com/profile_banners/2950391813/1512432208
+      profile_image_url: http://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+      profile_link_color: '000000'
+      profile_sidebar_border_color: C0DEED
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: '333333'
+      profile_use_background_image: false
+      protected: false
+      screen_name: JWGrieve
+      statuses_count: 2423
+      time_zone: London
+      translator_type: none
+      url: https://t.co/OWX6JRWKH1
+      utc_offset: 3600
+      verified: false
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: 'RT @JWGrieve: What''s a sociolinguistic variable?'
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Sat Aug 01 16:59:48 +0000 2009
+    default_profile: false
+    default_profile_image: false
+    description: Natural language processing & computational social science.
+    entities:
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: dongnguyen.nl
+          expanded_url: http://www.dongnguyen.nl
+          indices:
+          - 0
+          - 22
+          url: http://t.co/TilNGRVoq9
+    favourites_count: 454
+    follow_request_sent: false
+    followers_count: 710
+    following: true
+    friends_count: 297
+    geo_enabled: false
+    has_extended_profile: false
+    id: 62071829
+    id_str: '62071829'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 16
+    location: London, England
+    name: Dong Nguyen
+    notifications: false
+    profile_background_color: '131516'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_tile: true
+    profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_link_color: 6C6479
+    profile_sidebar_border_color: EEEEEE
+    profile_sidebar_fill_color: EFEFEF
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: dongng
+    statuses_count: 390
+    time_zone: Amsterdam
+    translator_type: none
+    url: http://t.co/TilNGRVoq9
+    utc_offset: 7200
+    verified: false
+- contributors: null
+  coordinates: null
+  created_at: Fri Apr 06 14:05:54 +0000 2018
+  entities:
+    hashtags: []
+    symbols: []
+    urls: []
+    user_mentions:
+    - id: 2950391813
+      id_str: '2950391813'
+      indices:
+      - 3
+      - 12
+      name: Jack Grieve
+      screen_name: JWGrieve
+  favorite_count: 0
+  favorited: false
+  geo: null
+  id: 982258096494923778
+  id_str: '982258096494923778'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: null
+  in_reply_to_user_id_str: null
+  is_quote_status: false
+  lang: en
+  metadata:
+    iso_language_code: en
+    result_type: recent
+  place: null
+  retweet_count: 5
+  retweeted: false
+  retweeted_status:
+    contributors: null
+    coordinates: null
+    created_at: Fri Apr 06 13:09:31 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls: []
+      user_mentions: []
+    favorite_count: 5
+    favorited: false
+    geo: null
+    id: 982243909316169730
+    id_str: '982243909316169730'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata:
+      iso_language_code: en
+      result_type: recent
+    place: null
+    retweet_count: 5
+    retweeted: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: What's a sociolinguistic variable?
+    truncated: false
+    user:
+      contributors_enabled: false
+      created_at: Tue Dec 30 01:37:19 +0000 2014
+      default_profile: false
+      default_profile_image: false
+      description: Corpus Linguistics, Dialectology, Forensic Linguistics, Language
+        Variation & Change
+      entities:
+        description:
+          urls: []
+        url:
+          urls:
+          - display_url: sites.google.com/view/grievejw
+            expanded_url: https://sites.google.com/view/grievejw
+            indices:
+            - 0
+            - 23
+            url: https://t.co/OWX6JRWKH1
+      favourites_count: 2678
+      follow_request_sent: false
+      followers_count: 2442
+      following: false
+      friends_count: 419
+      geo_enabled: false
+      has_extended_profile: false
+      id: 2950391813
+      id_str: '2950391813'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 79
+      location: University of Birmingham, UK
+      name: Jack Grieve
+      notifications: false
+      profile_background_color: FFFFFF
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_tile: false
+      profile_banner_url: https://pbs.twimg.com/profile_banners/2950391813/1512432208
+      profile_image_url: http://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+      profile_link_color: '000000'
+      profile_sidebar_border_color: C0DEED
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: '333333'
+      profile_use_background_image: false
+      protected: false
+      screen_name: JWGrieve
+      statuses_count: 2423
+      time_zone: London
+      translator_type: none
+      url: https://t.co/OWX6JRWKH1
+      utc_offset: 3600
+      verified: false
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: 'RT @JWGrieve: What''s a sociolinguistic variable?'
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Sat Aug 01 16:59:48 +0000 2009
+    default_profile: false
+    default_profile_image: false
+    description: Natural language processing & computational social science.
+    entities:
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: dongnguyen.nl
+          expanded_url: http://www.dongnguyen.nl
+          indices:
+          - 0
+          - 22
+          url: http://t.co/TilNGRVoq9
+    favourites_count: 454
+    follow_request_sent: false
+    followers_count: 710
+    following: true
+    friends_count: 297
+    geo_enabled: false
+    has_extended_profile: false
+    id: 62071829
+    id_str: '62071829'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 16
+    location: London, England
+    name: Dong Nguyen
+    notifications: false
+    profile_background_color: '131516'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+    profile_background_tile: true
+    profile_image_url: http://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/594959460008734720/5aXsGmEv_normal.jpg
+    profile_link_color: 6C6479
+    profile_sidebar_border_color: EEEEEE
+    profile_sidebar_fill_color: EFEFEF
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: dongng
+    statuses_count: 390
+    time_zone: Amsterdam
+    translator_type: none
+    url: http://t.co/TilNGRVoq9
+    utc_offset: 7200
+    verified: false
+- contributors: null
+  coordinates: null
+  created_at: Fri Apr 06 13:42:31 +0000 2018
+  entities:
+    hashtags: []
+    symbols: []
+    urls:
+    - display_url: "twitter.com/JWGrieve/statu\u2026"
+      expanded_url: https://twitter.com/JWGrieve/status/982243909316169730
+      indices:
+      - 8
+      - 31
+      url: https://t.co/toGuJs5GSQ
+    user_mentions:
+    - id: 62071829
+      id_str: '62071829'
+      indices:
+      - 0
+      - 7
+      name: Dong Nguyen
+      screen_name: dongng
+  favorite_count: 0
+  favorited: false
+  geo: null
+  id: 982252212758790145
+  id_str: '982252212758790145'
+  in_reply_to_screen_name: dongng
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: 62071829
+  in_reply_to_user_id_str: '62071829'
+  is_quote_status: true
+  lang: und
+  metadata:
+    iso_language_code: und
+    result_type: recent
+  place: null
+  possibly_sensitive: false
+  quoted_status:
+    contributors: null
+    coordinates: null
+    created_at: Fri Apr 06 13:09:31 +0000 2018
+    entities:
+      hashtags: []
+      symbols: []
+      urls: []
+      user_mentions: []
+    favorite_count: 5
+    favorited: false
+    geo: null
+    id: 982243909316169730
+    id_str: '982243909316169730'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    metadata:
+      iso_language_code: und
+      result_type: recent
+    place: null
+    retweet_count: 5
+    retweeted: false
+    source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    text: What's a sociolinguistic variable?
+    truncated: false
+    user:
+      contributors_enabled: false
+      created_at: Tue Dec 30 01:37:19 +0000 2014
+      default_profile: false
+      default_profile_image: false
+      description: Corpus Linguistics, Dialectology, Forensic Linguistics, Language
+        Variation & Change
+      entities:
+        description:
+          urls: []
+        url:
+          urls:
+          - display_url: sites.google.com/view/grievejw
+            expanded_url: https://sites.google.com/view/grievejw
+            indices:
+            - 0
+            - 23
+            url: https://t.co/OWX6JRWKH1
+      favourites_count: 2678
+      follow_request_sent: false
+      followers_count: 2442
+      following: false
+      friends_count: 419
+      geo_enabled: false
+      has_extended_profile: false
+      id: 2950391813
+      id_str: '2950391813'
+      is_translation_enabled: false
+      is_translator: false
+      lang: en
+      listed_count: 79
+      location: University of Birmingham, UK
+      name: Jack Grieve
+      notifications: false
+      profile_background_color: FFFFFF
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      profile_background_tile: false
+      profile_banner_url: https://pbs.twimg.com/profile_banners/2950391813/1512432208
+      profile_image_url: http://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+      profile_link_color: '000000'
+      profile_sidebar_border_color: C0DEED
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: '333333'
+      profile_use_background_image: false
+      protected: false
+      screen_name: JWGrieve
+      statuses_count: 2423
+      time_zone: London
+      translator_type: none
+      url: https://t.co/OWX6JRWKH1
+      utc_offset: 3600
+      verified: false
+  quoted_status_id: 982243909316169730
+  quoted_status_id_str: '982243909316169730'
+  retweet_count: 0
+  retweeted: false
+  source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+  text: '@dongng https://t.co/toGuJs5GSQ'
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Tue Dec 30 01:37:19 +0000 2014
+    default_profile: false
+    default_profile_image: false
+    description: Corpus Linguistics, Dialectology, Forensic Linguistics, Language
+      Variation & Change
+    entities:
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: sites.google.com/view/grievejw
+          expanded_url: https://sites.google.com/view/grievejw
+          indices:
+          - 0
+          - 23
+          url: https://t.co/OWX6JRWKH1
+    favourites_count: 2678
+    follow_request_sent: false
+    followers_count: 2442
+    following: false
+    friends_count: 419
+    geo_enabled: false
+    has_extended_profile: false
+    id: 2950391813
+    id_str: '2950391813'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 79
+    location: University of Birmingham, UK
+    name: Jack Grieve
+    notifications: false
+    profile_background_color: FFFFFF
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/2950391813/1512432208
+    profile_image_url: http://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/936922171498160128/nV1lNGzg_normal.jpg
+    profile_link_color: '000000'
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: false
+    protected: false
+    screen_name: JWGrieve
+    statuses_count: 2423
+    time_zone: London
+    translator_type: none
+    url: https://t.co/OWX6JRWKH1
+    utc_offset: 3600
+    verified: false
