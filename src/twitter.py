@@ -14,7 +14,7 @@ def fetch(api, resource, search_term, query):
         with open(filename, 'a') as output_file:
             r = TwitterAPI.TwitterPager(api, resource, query)
             for tweet in r.get_iterator():
-                if 'lang' in tweet and tweet['lang'] == 'en':
+                if not 'retweeted_status' in tweet and 'lang' in tweet and tweet['lang'] == 'en':
                     yaml.dump([tweet['text']], output_file, default_flow_style=False)
                     count += 1
                     print(count, tweet['lang'])
