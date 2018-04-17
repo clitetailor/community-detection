@@ -9,17 +9,18 @@ def fetch(api, resource, search_term, query):
 
     utils.ensure_dir(filename)
 
-    tweets = []
+    count = 0
     try:
-        r = TwitterAPI.TwitterPager(api, resource, query)
-        for tweet in r.get_iterator():
-            tweets.append(tweet)
+        with open(filename, 'a') as output_file:
+            r = TwitterAPI.TwitterPager(api, resource, query)
+            for tweet in r.get_iterator():
+                if 'lang' in tweet and tweet['lang'] == 'en':
+                    yaml.dump([tweet['text']], output_file, default_flow_style=False)
+                    count += 1
+                    print(count, tweet['lang'])
 
     except KeyboardInterrupt:
         pass
-
-    with open(filename, 'w') as output_file:
-        yaml.dump(tweets, output_file, default_flow_style=False)
 
 
 def fetch_one(api, resource, search_term, query):

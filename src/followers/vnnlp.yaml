@@ -1,0 +1,3729 @@
+!!python/object/new:tweepy.models.ResultSet
+listitems:
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Wed May 17 02:46:52 +0000 2017
+    default_profile: true
+    default_profile_image: false
+    description: ''
+    entities: &id001
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: trinhdinhphuong.com
+          expanded_url: https://trinhdinhphuong.com
+          indices:
+          - 0
+          - 23
+          url: https://t.co/GwyPjzmBGe
+    favourites_count: 7
+    follow_request_sent: false
+    followers_count: 1
+    following: false
+    friends_count: 161
+    geo_enabled: false
+    has_extended_profile: false
+    id: 864673542201237504
+    id_str: '864673542201237504'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: "H\u1ED3 Ch\xED Minh, Vi\u1EC7t Nam"
+    muting: false
+    name: Trinh D. Phuong
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/981875547801141249/H9748eTi_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/981875547801141249/H9748eTi_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: trinhdinhphuong
+    statuses_count: 0
+    time_zone: Pacific Time (US & Canada)
+    translator_type: none
+    url: https://t.co/GwyPjzmBGe
+    utc_offset: -25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2017-05-17 02:46:52
+  default_profile: true
+  default_profile_image: false
+  description: ''
+  entities: *id001
+  favourites_count: 7
+  follow_request_sent: false
+  followers_count: 1
+  following: false
+  friends_count: 161
+  geo_enabled: false
+  has_extended_profile: false
+  id: 864673542201237504
+  id_str: '864673542201237504'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: "H\u1ED3 Ch\xED Minh, Vi\u1EC7t Nam"
+  muting: false
+  name: Trinh D. Phuong
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_image_url: http://pbs.twimg.com/profile_images/981875547801141249/H9748eTi_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/981875547801141249/H9748eTi_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: trinhdinhphuong
+  statuses_count: 0
+  time_zone: Pacific Time (US & Canada)
+  translator_type: none
+  url: https://t.co/GwyPjzmBGe
+  utc_offset: -25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Fri Mar 09 07:23:30 +0000 2018
+    default_profile: false
+    default_profile_image: false
+    description: ''
+    entities: &id002
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: cansalanhmanh.com
+          expanded_url: http://cansalanhmanh.com
+          indices:
+          - 0
+          - 23
+          url: https://t.co/fT35837qUp
+    favourites_count: 10
+    follow_request_sent: false
+    followers_count: 8
+    following: false
+    friends_count: 100
+    geo_enabled: false
+    has_extended_profile: true
+    id: 972009967388540928
+    id_str: '972009967388540928'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: Ho Chi Minh, Vietnam
+    muting: false
+    name: Devis Lee
+    notifications: false
+    profile_background_color: '000000'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/972009967388540928/1523623165
+    profile_image_url: http://pbs.twimg.com/profile_images/984772911998222337/dOroPalV_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/984772911998222337/dOroPalV_normal.jpg
+    profile_link_color: 1B95E0
+    profile_sidebar_border_color: '000000'
+    profile_sidebar_fill_color: '000000'
+    profile_text_color: '000000'
+    profile_use_background_image: false
+    protected: false
+    screen_name: duicuunuong
+    status: &id003
+      contributors: null
+      coordinates: null
+      created_at: Sat Apr 14 11:06:46 +0000 2018
+      entities: &id004
+        hashtags:
+        - indices:
+          - 0
+          - 14
+          text: Cansalanhmanh
+        - indices:
+          - 15
+          - 29
+          text: Cansalanhlanh
+        - indices:
+          - 30
+          - 54
+          text: "Ch\u01B0\u01A1ng_tr\xECnh_cho_Stoner"
+        - indices:
+          - 56
+          - 65
+          text: Contacts
+        media:
+        - display_url: pic.twitter.com/dZAyAQAPvj
+          expanded_url: https://twitter.com/duicuunuong/status/985112121204662272/photo/1
+          id: 985112105266307074
+          id_str: '985112105266307074'
+          indices:
+          - 92
+          - 115
+          media_url: http://pbs.twimg.com/media/DavSPYpV4AIs7Kl.jpg
+          media_url_https: https://pbs.twimg.com/media/DavSPYpV4AIs7Kl.jpg
+          sizes:
+            large:
+              h: 800
+              resize: fit
+              w: 800
+            medium:
+              h: 800
+              resize: fit
+              w: 800
+            small:
+              h: 680
+              resize: fit
+              w: 680
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          type: photo
+          url: https://t.co/dZAyAQAPvj
+        symbols: []
+        urls:
+        - display_url: goo.gl/Ea3VT3
+          expanded_url: https://goo.gl/Ea3VT3
+          indices:
+          - 68
+          - 91
+          url: https://t.co/wVYd482TFU
+        user_mentions: []
+      extended_entities: &id005
+        media:
+        - display_url: pic.twitter.com/dZAyAQAPvj
+          expanded_url: https://twitter.com/duicuunuong/status/985112121204662272/photo/1
+          id: 985112105266307074
+          id_str: '985112105266307074'
+          indices:
+          - 92
+          - 115
+          media_url: http://pbs.twimg.com/media/DavSPYpV4AIs7Kl.jpg
+          media_url_https: https://pbs.twimg.com/media/DavSPYpV4AIs7Kl.jpg
+          sizes:
+            large:
+              h: 800
+              resize: fit
+              w: 800
+            medium:
+              h: 800
+              resize: fit
+              w: 800
+            small:
+              h: 680
+              resize: fit
+              w: 680
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          type: photo
+          url: https://t.co/dZAyAQAPvj
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 985112121204662272
+      id_str: '985112121204662272'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: und
+      place: null
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: "#Cansalanhmanh\n#Cansalanhlanh\n#Ch\u01B0\u01A1ng_tr\xECnh_cho_Stoner\n\
+        \n#Contacts : https://t.co/wVYd482TFU https://t.co/dZAyAQAPvj"
+      truncated: false
+    statuses_count: 24
+    time_zone: Hanoi
+    translator_type: none
+    url: https://t.co/fT35837qUp
+    utc_offset: 25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2018-03-09 07:23:30
+  default_profile: false
+  default_profile_image: false
+  description: ''
+  entities: *id002
+  favourites_count: 10
+  follow_request_sent: false
+  followers_count: 8
+  following: false
+  friends_count: 100
+  geo_enabled: false
+  has_extended_profile: true
+  id: 972009967388540928
+  id_str: '972009967388540928'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: Ho Chi Minh, Vietnam
+  muting: false
+  name: Devis Lee
+  notifications: false
+  profile_background_color: '000000'
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/972009967388540928/1523623165
+  profile_image_url: http://pbs.twimg.com/profile_images/984772911998222337/dOroPalV_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/984772911998222337/dOroPalV_normal.jpg
+  profile_link_color: 1B95E0
+  profile_sidebar_border_color: '000000'
+  profile_sidebar_fill_color: '000000'
+  profile_text_color: '000000'
+  profile_use_background_image: false
+  protected: false
+  screen_name: duicuunuong
+  status: !!python/object:tweepy.models.Status
+    _json: *id003
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-14 11:06:46
+    entities: *id004
+    extended_entities: *id005
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 985112121204662272
+    id_str: '985112121204662272'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: und
+    place: null
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: "#Cansalanhmanh\n#Cansalanhlanh\n#Ch\u01B0\u01A1ng_tr\xECnh_cho_Stoner\n\
+      \n#Contacts : https://t.co/wVYd482TFU https://t.co/dZAyAQAPvj"
+    truncated: false
+  statuses_count: 24
+  time_zone: Hanoi
+  translator_type: none
+  url: https://t.co/fT35837qUp
+  utc_offset: 25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sat Jan 11 06:40:09 +0000 2014
+    default_profile: false
+    default_profile_image: false
+    description: Nothing to say
+    entities: &id006
+      description:
+        urls: []
+    favourites_count: 10
+    follow_request_sent: false
+    followers_count: 18
+    following: false
+    friends_count: 50
+    geo_enabled: false
+    has_extended_profile: true
+    id: 2286212371
+    id_str: '2286212371'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: Anh-Khoa
+    notifications: false
+    profile_background_color: '000000'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/421894815991619584/UHzgpQdT_normal.png
+    profile_image_url_https: https://pbs.twimg.com/profile_images/421894815991619584/UHzgpQdT_normal.png
+    profile_link_color: 1B95E0
+    profile_sidebar_border_color: '000000'
+    profile_sidebar_fill_color: '000000'
+    profile_text_color: '000000'
+    profile_use_background_image: false
+    protected: false
+    screen_name: dnanhkhoa
+    statuses_count: 0
+    time_zone: Hanoi
+    translator_type: none
+    url: null
+    utc_offset: 25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2014-01-11 06:40:09
+  default_profile: false
+  default_profile_image: false
+  description: Nothing to say
+  entities: *id006
+  favourites_count: 10
+  follow_request_sent: false
+  followers_count: 18
+  following: false
+  friends_count: 50
+  geo_enabled: false
+  has_extended_profile: true
+  id: 2286212371
+  id_str: '2286212371'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: Anh-Khoa
+  notifications: false
+  profile_background_color: '000000'
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_image_url: http://pbs.twimg.com/profile_images/421894815991619584/UHzgpQdT_normal.png
+  profile_image_url_https: https://pbs.twimg.com/profile_images/421894815991619584/UHzgpQdT_normal.png
+  profile_link_color: 1B95E0
+  profile_sidebar_border_color: '000000'
+  profile_sidebar_fill_color: '000000'
+  profile_text_color: '000000'
+  profile_use_background_image: false
+  protected: false
+  screen_name: dnanhkhoa
+  statuses_count: 0
+  time_zone: Hanoi
+  translator_type: none
+  url: null
+  utc_offset: 25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Mon Aug 07 03:48:30 +0000 2017
+    default_profile: true
+    default_profile_image: false
+    description: ''
+    entities: &id007
+      description:
+        urls: []
+    favourites_count: 2
+    follow_request_sent: false
+    followers_count: 6
+    following: false
+    friends_count: 26
+    geo_enabled: false
+    has_extended_profile: false
+    id: 894404860212166657
+    id_str: '894404860212166657'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: No Gem
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/894404860212166657/1521988024
+    profile_image_url: http://pbs.twimg.com/profile_images/977914388312088578/_quZ20bN_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/977914388312088578/_quZ20bN_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: huy_miracle
+    status: &id008
+      contributors: null
+      coordinates: null
+      created_at: Sun Jan 28 07:44:16 +0000 2018
+      entities: &id009
+        hashtags: []
+        symbols: []
+        urls: []
+        user_mentions:
+        - id: 955841432312365057
+          id_str: '955841432312365057'
+          indices:
+          - 0
+          - 16
+          name: kelly nguyen
+          screen_name: kellynguyen_099
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 957519681912430592
+      id_str: '957519681912430592'
+      in_reply_to_screen_name: kellynguyen_099
+      in_reply_to_status_id: 957165588970815488
+      in_reply_to_status_id_str: '957165588970815488'
+      in_reply_to_user_id: 955841432312365057
+      in_reply_to_user_id_str: '955841432312365057'
+      is_quote_status: false
+      lang: en
+      place: null
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter
+        for Android</a>
+      text: '@kellynguyen_099 Beautiful'
+      truncated: false
+    statuses_count: 2
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2017-08-07 03:48:30
+  default_profile: true
+  default_profile_image: false
+  description: ''
+  entities: *id007
+  favourites_count: 2
+  follow_request_sent: false
+  followers_count: 6
+  following: false
+  friends_count: 26
+  geo_enabled: false
+  has_extended_profile: false
+  id: 894404860212166657
+  id_str: '894404860212166657'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: No Gem
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/894404860212166657/1521988024
+  profile_image_url: http://pbs.twimg.com/profile_images/977914388312088578/_quZ20bN_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/977914388312088578/_quZ20bN_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: huy_miracle
+  status: !!python/object:tweepy.models.Status
+    _json: *id008
+    contributors: null
+    coordinates: null
+    created_at: 2018-01-28 07:44:16
+    entities: *id009
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 957519681912430592
+    id_str: '957519681912430592'
+    in_reply_to_screen_name: kellynguyen_099
+    in_reply_to_status_id: 957165588970815488
+    in_reply_to_status_id_str: '957165588970815488'
+    in_reply_to_user_id: 955841432312365057
+    in_reply_to_user_id_str: '955841432312365057'
+    is_quote_status: false
+    lang: en
+    place: null
+    retweet_count: 0
+    retweeted: false
+    source: Twitter for Android
+    source_url: http://twitter.com/download/android
+    text: '@kellynguyen_099 Beautiful'
+    truncated: false
+  statuses_count: 2
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Fri Aug 26 21:04:50 +0000 2016
+    default_profile: false
+    default_profile_image: false
+    description: Undergraduate research assistant in NLP, machine learning at UNC
+      Chapel Hill.
+    entities: &id010
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: han-guo.info
+          expanded_url: http://han-guo.info
+          indices:
+          - 0
+          - 23
+          url: https://t.co/wHa8FslbKg
+    favourites_count: 766
+    follow_request_sent: false
+    followers_count: 41
+    following: false
+    friends_count: 1223
+    geo_enabled: false
+    has_extended_profile: true
+    id: 769279457387540480
+    id_str: '769279457387540480'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: Chapel Hill, NC
+    muting: false
+    name: Han Guo
+    notifications: false
+    profile_background_color: '000000'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/979252998701535232/siuEwXOk_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/979252998701535232/siuEwXOk_normal.jpg
+    profile_link_color: FF691F
+    profile_sidebar_border_color: '000000'
+    profile_sidebar_fill_color: '000000'
+    profile_text_color: '000000'
+    profile_use_background_image: false
+    protected: false
+    screen_name: AlexGuoHan
+    status: &id011
+      contributors: null
+      coordinates: null
+      created_at: Thu Apr 12 15:45:34 +0000 2018
+      entities: &id012
+        hashtags: []
+        symbols: []
+        urls: []
+        user_mentions:
+        - id: 254107028
+          id_str: '254107028'
+          indices:
+          - 3
+          - 14
+          name: TensorFlow
+          screen_name: TensorFlow
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 984457507342045190
+      id_str: '984457507342045190'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      retweet_count: 382
+      retweeted: false
+      retweeted_status: &id013
+        contributors: null
+        coordinates: null
+        created_at: Wed Apr 11 17:37:51 +0000 2018
+        entities: &id014
+          hashtags: []
+          symbols: []
+          urls:
+          - display_url: "twitter.com/i/web/status/9\u2026"
+            expanded_url: https://twitter.com/i/web/status/984123375642607617
+            indices:
+            - 117
+            - 140
+            url: https://t.co/bw3upzhtiI
+          user_mentions: []
+        favorite_count: 827
+        favorited: false
+        geo: null
+        id: 984123375642607617
+        id_str: '984123375642607617'
+        in_reply_to_screen_name: null
+        in_reply_to_status_id: null
+        in_reply_to_status_id_str: null
+        in_reply_to_user_id: null
+        in_reply_to_user_id_str: null
+        is_quote_status: false
+        lang: en
+        place: null
+        possibly_sensitive: false
+        retweet_count: 382
+        retweeted: false
+        source: <a href="https://www.sprinklr.com" rel="nofollow">Sprinklr</a>
+        text: "Introducing TensorFlow Probability: empowering ML researchers and practitioners\
+          \ to build sophisticated models quick\u2026 https://t.co/bw3upzhtiI"
+        truncated: true
+      source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+        for iPhone</a>
+      text: "RT @TensorFlow: Introducing TensorFlow Probability: empowering ML researchers\
+        \ and practitioners to build sophisticated models quickly, leve\u2026"
+      truncated: false
+    statuses_count: 28
+    time_zone: Pacific Time (US & Canada)
+    translator_type: none
+    url: https://t.co/wHa8FslbKg
+    utc_offset: -25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2016-08-26 21:04:50
+  default_profile: false
+  default_profile_image: false
+  description: Undergraduate research assistant in NLP, machine learning at UNC Chapel
+    Hill.
+  entities: *id010
+  favourites_count: 766
+  follow_request_sent: false
+  followers_count: 41
+  following: false
+  friends_count: 1223
+  geo_enabled: false
+  has_extended_profile: true
+  id: 769279457387540480
+  id_str: '769279457387540480'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: Chapel Hill, NC
+  muting: false
+  name: Han Guo
+  notifications: false
+  profile_background_color: '000000'
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_image_url: http://pbs.twimg.com/profile_images/979252998701535232/siuEwXOk_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/979252998701535232/siuEwXOk_normal.jpg
+  profile_link_color: FF691F
+  profile_sidebar_border_color: '000000'
+  profile_sidebar_fill_color: '000000'
+  profile_text_color: '000000'
+  profile_use_background_image: false
+  protected: false
+  screen_name: AlexGuoHan
+  status: !!python/object:tweepy.models.Status
+    _json: *id011
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-12 15:45:34
+    entities: *id012
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 984457507342045190
+    id_str: '984457507342045190'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    retweet_count: 382
+    retweeted: false
+    retweeted_status: !!python/object:tweepy.models.Status
+      _json: *id013
+      contributors: null
+      coordinates: null
+      created_at: 2018-04-11 17:37:51
+      entities: *id014
+      favorite_count: 827
+      favorited: false
+      geo: null
+      id: 984123375642607617
+      id_str: '984123375642607617'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 382
+      retweeted: false
+      source: Sprinklr
+      source_url: https://www.sprinklr.com
+      text: "Introducing TensorFlow Probability: empowering ML researchers and practitioners\
+        \ to build sophisticated models quick\u2026 https://t.co/bw3upzhtiI"
+      truncated: true
+    source: Twitter for iPhone
+    source_url: http://twitter.com/download/iphone
+    text: "RT @TensorFlow: Introducing TensorFlow Probability: empowering ML researchers\
+      \ and practitioners to build sophisticated models quickly, leve\u2026"
+    truncated: false
+  statuses_count: 28
+  time_zone: Pacific Time (US & Canada)
+  translator_type: none
+  url: https://t.co/wHa8FslbKg
+  utc_offset: -25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Fri Mar 23 13:14:46 +0000 2018
+    default_profile: true
+    default_profile_image: false
+    description: ''
+    entities: &id015
+      description:
+        urls: []
+    favourites_count: 0
+    follow_request_sent: false
+    followers_count: 5
+    following: true
+    friends_count: 113
+    geo_enabled: false
+    has_extended_profile: false
+    id: 977171798025318400
+    id_str: '977171798025318400'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: "Ph\u01B0\u1EDBc L\u01B0u"
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/977173744752902147/T8BO4B-K_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/977173744752902147/T8BO4B-K_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: iamcouhp
+    statuses_count: 0
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2018-03-23 13:14:46
+  default_profile: true
+  default_profile_image: false
+  description: ''
+  entities: *id015
+  favourites_count: 0
+  follow_request_sent: false
+  followers_count: 5
+  following: true
+  friends_count: 113
+  geo_enabled: false
+  has_extended_profile: false
+  id: 977171798025318400
+  id_str: '977171798025318400'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: "Ph\u01B0\u1EDBc L\u01B0u"
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_image_url: http://pbs.twimg.com/profile_images/977173744752902147/T8BO4B-K_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/977173744752902147/T8BO4B-K_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: iamcouhp
+  statuses_count: 0
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sat Sep 17 10:20:44 +0000 2016
+    default_profile: true
+    default_profile_image: true
+    description: ''
+    entities: &id016
+      description:
+        urls: []
+    favourites_count: 0
+    follow_request_sent: false
+    followers_count: 0
+    following: false
+    friends_count: 20
+    geo_enabled: false
+    has_extended_profile: false
+    id: 777089897995771904
+    id_str: '777089897995771904'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: Nguyen Huu Hoang
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: HoangNguyen_94
+    status: &id017
+      contributors: null
+      coordinates: null
+      created_at: Sun Dec 18 06:00:09 +0000 2016
+      entities: &id018
+        hashtags: []
+        symbols: []
+        urls:
+        - display_url: vast-scrubland-42486.herokuapp.com/polldetail/2
+          expanded_url: https://vast-scrubland-42486.herokuapp.com/polldetail/2
+          indices:
+          - 0
+          - 23
+          url: https://t.co/wAsNh1bcdg
+        user_mentions: []
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 810364007660027904
+      id_str: '810364007660027904'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: und
+      place: null
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: https://t.co/wAsNh1bcdg
+      truncated: false
+    statuses_count: 1
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2016-09-17 10:20:44
+  default_profile: true
+  default_profile_image: true
+  description: ''
+  entities: *id016
+  favourites_count: 0
+  follow_request_sent: false
+  followers_count: 0
+  following: false
+  friends_count: 20
+  geo_enabled: false
+  has_extended_profile: false
+  id: 777089897995771904
+  id_str: '777089897995771904'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: Nguyen Huu Hoang
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: HoangNguyen_94
+  status: !!python/object:tweepy.models.Status
+    _json: *id017
+    contributors: null
+    coordinates: null
+    created_at: 2016-12-18 06:00:09
+    entities: *id018
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 810364007660027904
+    id_str: '810364007660027904'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: und
+    place: null
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: https://t.co/wAsNh1bcdg
+    truncated: false
+  statuses_count: 1
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sat Aug 08 04:01:18 +0000 2009
+    default_profile: true
+    default_profile_image: false
+    description: Deep Learning Engineer. Data Scientist. Institutional Investor. Musings
+      on neural nets, machine learning, cognitive science, & occasionally current
+      events.
+    entities: &id019
+      description:
+        urls: []
+    favourites_count: 2073
+    follow_request_sent: false
+    followers_count: 435
+    following: false
+    friends_count: 3320
+    geo_enabled: false
+    has_extended_profile: false
+    id: 63901070
+    id_str: '63901070'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 12
+    live_following: false
+    location: Berkeley, CA
+    muting: false
+    name: Jeff Coggshall
+    notifications: false
+    profile_background_color: C0DEED
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/908529718604873728/GHpRkcDx_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/908529718604873728/GHpRkcDx_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: voxmenthe
+    status: &id020
+      contributors: null
+      coordinates: null
+      created_at: Wed Apr 11 06:06:06 +0000 2018
+      entities: &id021
+        hashtags: []
+        symbols: []
+        urls:
+        - display_url: "twitter.com/i/web/status/9\u2026"
+          expanded_url: https://twitter.com/i/web/status/983949290807545856
+          indices:
+          - 117
+          - 140
+          url: https://t.co/u0P7JpJIdV
+        user_mentions: []
+      favorite_count: 2
+      favorited: false
+      geo: null
+      id: 983949290807545856
+      id_str: '983949290807545856'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 1
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: "I implemented Cyclical Learning Rates, some custom activations including\
+        \ swish, eswish and more, along with easy te\u2026 https://t.co/u0P7JpJIdV"
+      truncated: true
+    statuses_count: 428
+    time_zone: Arizona
+    translator_type: none
+    url: null
+    utc_offset: -25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2009-08-08 04:01:18
+  default_profile: true
+  default_profile_image: false
+  description: Deep Learning Engineer. Data Scientist. Institutional Investor. Musings
+    on neural nets, machine learning, cognitive science, & occasionally current events.
+  entities: *id019
+  favourites_count: 2073
+  follow_request_sent: false
+  followers_count: 435
+  following: false
+  friends_count: 3320
+  geo_enabled: false
+  has_extended_profile: false
+  id: 63901070
+  id_str: '63901070'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 12
+  live_following: false
+  location: Berkeley, CA
+  muting: false
+  name: Jeff Coggshall
+  notifications: false
+  profile_background_color: C0DEED
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_image_url: http://pbs.twimg.com/profile_images/908529718604873728/GHpRkcDx_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/908529718604873728/GHpRkcDx_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: voxmenthe
+  status: !!python/object:tweepy.models.Status
+    _json: *id020
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-11 06:06:06
+    entities: *id021
+    favorite_count: 2
+    favorited: false
+    geo: null
+    id: 983949290807545856
+    id_str: '983949290807545856'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    possibly_sensitive: false
+    retweet_count: 1
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: "I implemented Cyclical Learning Rates, some custom activations including\
+      \ swish, eswish and more, along with easy te\u2026 https://t.co/u0P7JpJIdV"
+    truncated: true
+  statuses_count: 428
+  time_zone: Arizona
+  translator_type: none
+  url: null
+  utc_offset: -25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Wed Feb 03 17:40:20 +0000 2010
+    default_profile: false
+    default_profile_image: false
+    description: 'Chief Technology & Product Officer @MetamavenAI. Editor @TOPBOTS.
+      #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX
+      & crappy #bots'
+    entities: &id022
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: mariyayao.com
+          expanded_url: http://www.mariyayao.com
+          indices:
+          - 0
+          - 23
+          url: https://t.co/EWYY4EzTeb
+    favourites_count: 3536
+    follow_request_sent: false
+    followers_count: 26511
+    following: false
+    friends_count: 7584
+    geo_enabled: false
+    has_extended_profile: true
+    id: 111060272
+    id_str: '111060272'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 828
+    live_following: false
+    location: ''
+    muting: false
+    name: Mariya Yao
+    notifications: false
+    profile_background_color: 9AE4E8
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme16/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme16/bg.gif
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/111060272/1473870676
+    profile_image_url: http://pbs.twimg.com/profile_images/872536266381770752/OXMZTl7c_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/872536266381770752/OXMZTl7c_normal.jpg
+    profile_link_color: 0084B4
+    profile_sidebar_border_color: BDDCAD
+    profile_sidebar_fill_color: DDFFCC
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: thinkmariya
+    status: &id023
+      contributors: null
+      coordinates: null
+      created_at: Fri Apr 13 21:44:27 +0000 2018
+      entities: &id024
+        hashtags:
+        - indices:
+          - 17
+          - 26
+          text: WiAC2018
+        symbols: []
+        urls: []
+        user_mentions:
+        - id: 597868047
+          id_str: '597868047'
+          indices:
+          - 3
+          - 15
+          name: Emily Robinson
+          screen_name: robinson_es
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 984910209695952896
+      id_str: '984910209695952896'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      retweet_count: 57
+      retweeted: false
+      retweeted_status: &id025
+        contributors: null
+        coordinates: null
+        created_at: Fri Apr 13 16:41:12 +0000 2018
+        entities: &id026
+          hashtags:
+          - indices:
+            - 0
+            - 9
+            text: WiAC2018
+          symbols: []
+          urls:
+          - display_url: "twitter.com/i/web/status/9\u2026"
+            expanded_url: https://twitter.com/i/web/status/984833893676142592
+            indices:
+            - 117
+            - 140
+            url: https://t.co/93C1L9KEFA
+          user_mentions: []
+        favorite_count: 166
+        favorited: false
+        geo: null
+        id: 984833893676142592
+        id_str: '984833893676142592'
+        in_reply_to_screen_name: null
+        in_reply_to_status_id: null
+        in_reply_to_status_id_str: null
+        in_reply_to_user_id: null
+        in_reply_to_user_id_str: null
+        is_quote_status: false
+        lang: en
+        place: null
+        possibly_sensitive: false
+        retweet_count: 57
+        retweeted: false
+        source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+          for iPhone</a>
+        text: "#WiAC2018 received more than 1000 applications to attend the conference\
+          \ and has more than 20 speakers. If your conf\u2026 https://t.co/93C1L9KEFA"
+        truncated: true
+      source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+        for iPhone</a>
+      text: "RT @robinson_es: #WiAC2018 received more than 1000 applications to attend\
+        \ the conference and has more than 20 speakers. If your conference/\u2026"
+      truncated: false
+    statuses_count: 8060
+    time_zone: Pacific Time (US & Canada)
+    translator_type: none
+    url: https://t.co/EWYY4EzTeb
+    utc_offset: -25200
+    verified: true
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2010-02-03 17:40:20
+  default_profile: false
+  default_profile_image: false
+  description: 'Chief Technology & Product Officer @MetamavenAI. Editor @TOPBOTS.
+    #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX &
+    crappy #bots'
+  entities: *id022
+  favourites_count: 3536
+  follow_request_sent: false
+  followers_count: 26511
+  following: false
+  friends_count: 7584
+  geo_enabled: false
+  has_extended_profile: true
+  id: 111060272
+  id_str: '111060272'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 828
+  live_following: false
+  location: ''
+  muting: false
+  name: Mariya Yao
+  notifications: false
+  profile_background_color: 9AE4E8
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme16/bg.gif
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme16/bg.gif
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/111060272/1473870676
+  profile_image_url: http://pbs.twimg.com/profile_images/872536266381770752/OXMZTl7c_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/872536266381770752/OXMZTl7c_normal.jpg
+  profile_link_color: 0084B4
+  profile_sidebar_border_color: BDDCAD
+  profile_sidebar_fill_color: DDFFCC
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: thinkmariya
+  status: !!python/object:tweepy.models.Status
+    _json: *id023
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-13 21:44:27
+    entities: *id024
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 984910209695952896
+    id_str: '984910209695952896'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    retweet_count: 57
+    retweeted: false
+    retweeted_status: !!python/object:tweepy.models.Status
+      _json: *id025
+      contributors: null
+      coordinates: null
+      created_at: 2018-04-13 16:41:12
+      entities: *id026
+      favorite_count: 166
+      favorited: false
+      geo: null
+      id: 984833893676142592
+      id_str: '984833893676142592'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 57
+      retweeted: false
+      source: Twitter for iPhone
+      source_url: http://twitter.com/download/iphone
+      text: "#WiAC2018 received more than 1000 applications to attend the conference\
+        \ and has more than 20 speakers. If your conf\u2026 https://t.co/93C1L9KEFA"
+      truncated: true
+    source: Twitter for iPhone
+    source_url: http://twitter.com/download/iphone
+    text: "RT @robinson_es: #WiAC2018 received more than 1000 applications to attend\
+      \ the conference and has more than 20 speakers. If your conference/\u2026"
+    truncated: false
+  statuses_count: 8060
+  time_zone: Pacific Time (US & Canada)
+  translator_type: none
+  url: https://t.co/EWYY4EzTeb
+  utc_offset: -25200
+  verified: true
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sun Apr 11 05:52:01 +0000 2010
+    default_profile: false
+    default_profile_image: false
+    description: Academician, Researcher. Tweets are personal, RTs are not endorsement.
+      All my tweets can be used for research purpose.
+    entities: &id027
+      description:
+        urls: []
+    favourites_count: 1193
+    follow_request_sent: false
+    followers_count: 646
+    following: false
+    friends_count: 784
+    geo_enabled: true
+    has_extended_profile: false
+    id: 131745943
+    id_str: '131745943'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 14
+    live_following: false
+    location: Agartala
+    muting: false
+    name: Anupam Jamatia
+    notifications: false
+    profile_background_color: ACDED6
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme18/bg.gif
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme18/bg.gif
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/131745943/1521808727
+    profile_image_url: http://pbs.twimg.com/profile_images/910875688315494400/NI87lI9H_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/910875688315494400/NI87lI9H_normal.jpg
+    profile_link_color: 038543
+    profile_sidebar_border_color: EEEEEE
+    profile_sidebar_fill_color: F6F6F6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: anupamjamatia
+    status: &id028
+      contributors: null
+      coordinates: null
+      created_at: Sun Apr 15 03:32:33 +0000 2018
+      entities: &id029
+        hashtags: []
+        symbols: []
+        urls: []
+        user_mentions:
+        - id: 4911089234
+          id_str: '4911089234'
+          indices:
+          - 0
+          - 8
+          name: Gouri Sankar Pathy
+          screen_name: GSPathy
+        - id: 355989081
+          id_str: '355989081'
+          indices:
+          - 9
+          - 13
+          name: ANI
+          screen_name: ANI
+        - id: 138002210
+          id_str: '138002210'
+          indices:
+          - 14
+          - 28
+          name: DK
+          screen_name: DineshKarthik
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 985360202244517888
+      id_str: '985360202244517888'
+      in_reply_to_screen_name: anupamjamatia
+      in_reply_to_status_id: 985117337790459904
+      in_reply_to_status_id_str: '985117337790459904'
+      in_reply_to_user_id: 131745943
+      in_reply_to_user_id_str: '131745943'
+      is_quote_status: false
+      lang: en
+      place:
+        attributes: &id030 {}
+        bounding_box:
+          coordinates: &id031
+          - - - 91.152509
+              - 23.563273
+            - - 91.574727
+              - 23.563273
+            - - 91.574727
+              - 24.108972
+            - - 91.152509
+              - 24.108972
+          type: Polygon
+        contained_within: []
+        country: India
+        country_code: IN
+        full_name: Agartala, India
+        id: 0f4b5c09e18deeea
+        name: Agartala
+        place_type: city
+        url: https://api.twitter.com/1.1/geo/id/0f4b5c09e18deeea.json
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+        for iPhone</a>
+      text: "@GSPathy @ANI @DineshKarthik Now got to know - Congratulations Dinesh\
+        \ Karthik \U0001F490\U0001F64F"
+      truncated: false
+    statuses_count: 2630
+    time_zone: New Delhi
+    translator_type: none
+    url: null
+    utc_offset: 19800
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2010-04-11 05:52:01
+  default_profile: false
+  default_profile_image: false
+  description: Academician, Researcher. Tweets are personal, RTs are not endorsement.
+    All my tweets can be used for research purpose.
+  entities: *id027
+  favourites_count: 1193
+  follow_request_sent: false
+  followers_count: 646
+  following: false
+  friends_count: 784
+  geo_enabled: true
+  has_extended_profile: false
+  id: 131745943
+  id_str: '131745943'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 14
+  live_following: false
+  location: Agartala
+  muting: false
+  name: Anupam Jamatia
+  notifications: false
+  profile_background_color: ACDED6
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme18/bg.gif
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme18/bg.gif
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/131745943/1521808727
+  profile_image_url: http://pbs.twimg.com/profile_images/910875688315494400/NI87lI9H_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/910875688315494400/NI87lI9H_normal.jpg
+  profile_link_color: 038543
+  profile_sidebar_border_color: EEEEEE
+  profile_sidebar_fill_color: F6F6F6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: anupamjamatia
+  status: !!python/object:tweepy.models.Status
+    _json: *id028
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-15 03:32:33
+    entities: *id029
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 985360202244517888
+    id_str: '985360202244517888'
+    in_reply_to_screen_name: anupamjamatia
+    in_reply_to_status_id: 985117337790459904
+    in_reply_to_status_id_str: '985117337790459904'
+    in_reply_to_user_id: 131745943
+    in_reply_to_user_id_str: '131745943'
+    is_quote_status: false
+    lang: en
+    place: !!python/object:tweepy.models.Place
+      attributes: *id030
+      bounding_box: !!python/object:tweepy.models.BoundingBox
+        coordinates: *id031
+        type: Polygon
+      contained_within: !!python/object:tweepy.models.ResultSet
+        _max_id: null
+        _since_id: null
+      country: India
+      country_code: IN
+      full_name: Agartala, India
+      id: 0f4b5c09e18deeea
+      name: Agartala
+      place_type: city
+      url: https://api.twitter.com/1.1/geo/id/0f4b5c09e18deeea.json
+    retweet_count: 0
+    retweeted: false
+    source: Twitter for iPhone
+    source_url: http://twitter.com/download/iphone
+    text: "@GSPathy @ANI @DineshKarthik Now got to know - Congratulations Dinesh Karthik\
+      \ \U0001F490\U0001F64F"
+    truncated: false
+  statuses_count: 2630
+  time_zone: New Delhi
+  translator_type: none
+  url: null
+  utc_offset: 19800
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sat Feb 03 06:00:30 +0000 2018
+    default_profile: true
+    default_profile_image: false
+    description: I like to make friend to everyone
+    entities: &id032
+      description:
+        urls: []
+    favourites_count: 101
+    follow_request_sent: false
+    followers_count: 86
+    following: false
+    friends_count: 414
+    geo_enabled: false
+    has_extended_profile: true
+    id: 959667895826444290
+    id_str: '959667895826444290'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: "Vi\u1EC7t Nam"
+    muting: false
+    name: Airdrop & Bounty
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/959667895826444290/1519451610
+    profile_image_url: http://pbs.twimg.com/profile_images/967276222064467968/RlZI_Mi6_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/967276222064467968/RlZI_Mi6_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: Airdrop6666
+    status: &id033
+      contributors: null
+      coordinates: null
+      created_at: Tue Mar 13 13:18:40 +0000 2018
+      entities: &id034
+        hashtags:
+        - indices:
+          - 0
+          - 10
+          text: PhnxToken
+        symbols: []
+        urls:
+        - display_url: "phnxtoken.com/?r=203053#regi\u2026"
+          expanded_url: https://phnxtoken.com/?r=203053#register
+          indices:
+          - 81
+          - 104
+          url: https://t.co/JMPi13fzDo
+        - display_url: "twitter.com/i/web/status/9\u2026"
+          expanded_url: https://twitter.com/i/web/status/973548902602350592
+          indices:
+          - 117
+          - 140
+          url: https://t.co/z8oOcNukFn
+        user_mentions: []
+      favorite_count: 3
+      favorited: false
+      geo: null
+      id: 973548902602350592
+      id_str: '973548902602350592'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: "#PhnxToken pre-registration has started. Join now and get your free 300\
+        \ tokens. \nhttps://t.co/JMPi13fzDo Share your\u2026 https://t.co/z8oOcNukFn"
+      truncated: true
+    statuses_count: 48
+    time_zone: Pacific Time (US & Canada)
+    translator_type: none
+    url: null
+    utc_offset: -25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2018-02-03 06:00:30
+  default_profile: true
+  default_profile_image: false
+  description: I like to make friend to everyone
+  entities: *id032
+  favourites_count: 101
+  follow_request_sent: false
+  followers_count: 86
+  following: false
+  friends_count: 414
+  geo_enabled: false
+  has_extended_profile: true
+  id: 959667895826444290
+  id_str: '959667895826444290'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: "Vi\u1EC7t Nam"
+  muting: false
+  name: Airdrop & Bounty
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/959667895826444290/1519451610
+  profile_image_url: http://pbs.twimg.com/profile_images/967276222064467968/RlZI_Mi6_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/967276222064467968/RlZI_Mi6_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: Airdrop6666
+  status: !!python/object:tweepy.models.Status
+    _json: *id033
+    contributors: null
+    coordinates: null
+    created_at: 2018-03-13 13:18:40
+    entities: *id034
+    favorite_count: 3
+    favorited: false
+    geo: null
+    id: 973548902602350592
+    id_str: '973548902602350592'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: "#PhnxToken pre-registration has started. Join now and get your free 300\
+      \ tokens. \nhttps://t.co/JMPi13fzDo Share your\u2026 https://t.co/z8oOcNukFn"
+    truncated: true
+  statuses_count: 48
+  time_zone: Pacific Time (US & Canada)
+  translator_type: none
+  url: null
+  utc_offset: -25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sat Feb 03 06:33:51 +0000 2018
+    default_profile: true
+    default_profile_image: false
+    description: Love animal, like to travelling
+    entities: &id035
+      description:
+        urls: []
+    favourites_count: 87
+    follow_request_sent: false
+    followers_count: 67
+    following: false
+    friends_count: 294
+    geo_enabled: false
+    has_extended_profile: true
+    id: 959676288536473601
+    id_str: '959676288536473601'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: Cryptocurency
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/959676288536473601/1519446174
+    profile_image_url: http://pbs.twimg.com/profile_images/967253586974355456/BVjzwERX_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/967253586974355456/BVjzwERX_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: Cryptocurency55
+    status: &id036
+      contributors: null
+      coordinates: null
+      created_at: Thu Mar 15 04:57:20 +0000 2018
+      entities: &id037
+        hashtags: []
+        symbols: []
+        urls:
+        - display_url: "cafebiz.vn/sau-kybernetwo\u2026"
+          expanded_url: http://cafebiz.vn/sau-kybernetwork-startup-viet-nay-gay-bat
+          indices:
+          - 42
+          - 65
+          url: https://t.co/Q8b5WXfVOM
+        user_mentions:
+        - id: 941159555529981953
+          id_str: '941159555529981953'
+          indices:
+          - 3
+          - 16
+          name: Bigbom
+          screen_name: bigbomglobal
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 974147511072931840
+      id_str: '974147511072931840'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 567
+      retweeted: false
+      retweeted_status: &id038
+        contributors: null
+        coordinates: null
+        created_at: Thu Jan 25 03:53:00 +0000 2018
+        entities: &id039
+          hashtags: []
+          symbols: []
+          urls:
+          - display_url: "cafebiz.vn/sau-kybernetwo\u2026"
+            expanded_url: http://cafebiz.vn/sau-kybernetwork-startup-viet-nay-gay-bat
+            indices:
+            - 24
+            - 47
+            url: https://t.co/Q8b5WXfVOM
+          - display_url: "twitter.com/i/web/status/9\u2026"
+            expanded_url: https://twitter.com/i/web/status/956374316307824641
+            indices:
+            - 117
+            - 140
+            url: https://t.co/RosY53chqt
+          user_mentions: []
+        favorite_count: 92
+        favorited: false
+        geo: null
+        id: 956374316307824641
+        id_str: '956374316307824641'
+        in_reply_to_screen_name: null
+        in_reply_to_status_id: null
+        in_reply_to_status_id_str: null
+        in_reply_to_user_id: null
+        in_reply_to_user_id_str: null
+        is_quote_status: false
+        lang: en
+        place: null
+        possibly_sensitive: false
+        retweet_count: 567
+        retweeted: false
+        source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+        text: "\U0001F4AB\U0001F4AB\U0001F4AB Bigbom in the news: https://t.co/Q8b5WXfVOM\u2026\
+          \n\n-----------\n\nJoin our telegram group to enjoy with our awesome co\u2026\
+          \ https://t.co/RosY53chqt"
+        truncated: true
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: "RT @bigbomglobal: \U0001F4AB\U0001F4AB\U0001F4AB Bigbom in the news:\
+        \ https://t.co/Q8b5WXfVOM\u2026\n\n-----------\n\nJoin our telegram group\
+        \ to enjoy with our awesome communit\u2026"
+      truncated: false
+    statuses_count: 40
+    time_zone: Pacific Time (US & Canada)
+    translator_type: none
+    url: null
+    utc_offset: -25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2018-02-03 06:33:51
+  default_profile: true
+  default_profile_image: false
+  description: Love animal, like to travelling
+  entities: *id035
+  favourites_count: 87
+  follow_request_sent: false
+  followers_count: 67
+  following: false
+  friends_count: 294
+  geo_enabled: false
+  has_extended_profile: true
+  id: 959676288536473601
+  id_str: '959676288536473601'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: Cryptocurency
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/959676288536473601/1519446174
+  profile_image_url: http://pbs.twimg.com/profile_images/967253586974355456/BVjzwERX_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/967253586974355456/BVjzwERX_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: Cryptocurency55
+  status: !!python/object:tweepy.models.Status
+    _json: *id036
+    contributors: null
+    coordinates: null
+    created_at: 2018-03-15 04:57:20
+    entities: *id037
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 974147511072931840
+    id_str: '974147511072931840'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    possibly_sensitive: false
+    retweet_count: 567
+    retweeted: false
+    retweeted_status: !!python/object:tweepy.models.Status
+      _json: *id038
+      contributors: null
+      coordinates: null
+      created_at: 2018-01-25 03:53:00
+      entities: *id039
+      favorite_count: 92
+      favorited: false
+      geo: null
+      id: 956374316307824641
+      id_str: '956374316307824641'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 567
+      retweeted: false
+      source: Twitter Web Client
+      source_url: http://twitter.com
+      text: "\U0001F4AB\U0001F4AB\U0001F4AB Bigbom in the news: https://t.co/Q8b5WXfVOM\u2026\
+        \n\n-----------\n\nJoin our telegram group to enjoy with our awesome co\u2026\
+        \ https://t.co/RosY53chqt"
+      truncated: true
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: "RT @bigbomglobal: \U0001F4AB\U0001F4AB\U0001F4AB Bigbom in the news: https://t.co/Q8b5WXfVOM\u2026\
+      \n\n-----------\n\nJoin our telegram group to enjoy with our awesome communit\u2026"
+    truncated: false
+  statuses_count: 40
+  time_zone: Pacific Time (US & Canada)
+  translator_type: none
+  url: null
+  utc_offset: -25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Fri Mar 31 02:15:15 +0000 2017
+    default_profile: true
+    default_profile_image: true
+    description: ''
+    entities: &id040
+      description:
+        urls: []
+    favourites_count: 0
+    follow_request_sent: false
+    followers_count: 0
+    following: false
+    friends_count: 3
+    geo_enabled: false
+    has_extended_profile: false
+    id: 847633356799922176
+    id_str: '847633356799922176'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: Trang Phung
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: trangphung_93
+    status: &id041
+      contributors: null
+      coordinates: null
+      created_at: Fri Mar 31 02:27:34 +0000 2017
+      entities: &id042
+        hashtags: []
+        symbols: []
+        urls: []
+        user_mentions:
+        - id: 2688148651
+          id_str: '2688148651'
+          indices:
+          - 0
+          - 11
+          name: Airbnb Help
+          screen_name: AirbnbHelp
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 847636459137900544
+      id_str: '847636459137900544'
+      in_reply_to_screen_name: AirbnbHelp
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: 2688148651
+      in_reply_to_user_id_str: '2688148651'
+      is_quote_status: false
+      lang: en
+      place: null
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: '@AirbnbHelp hello, I didn''t receive the credit although my friend has
+        taken a trip, could you please help me check it? thanks!'
+      truncated: false
+    statuses_count: 1
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2017-03-31 02:15:15
+  default_profile: true
+  default_profile_image: true
+  description: ''
+  entities: *id040
+  favourites_count: 0
+  follow_request_sent: false
+  followers_count: 0
+  following: false
+  friends_count: 3
+  geo_enabled: false
+  has_extended_profile: false
+  id: 847633356799922176
+  id_str: '847633356799922176'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: Trang Phung
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: trangphung_93
+  status: !!python/object:tweepy.models.Status
+    _json: *id041
+    contributors: null
+    coordinates: null
+    created_at: 2017-03-31 02:27:34
+    entities: *id042
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 847636459137900544
+    id_str: '847636459137900544'
+    in_reply_to_screen_name: AirbnbHelp
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: 2688148651
+    in_reply_to_user_id_str: '2688148651'
+    is_quote_status: false
+    lang: en
+    place: null
+    retweet_count: 0
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: '@AirbnbHelp hello, I didn''t receive the credit although my friend has
+      taken a trip, could you please help me check it? thanks!'
+    truncated: false
+  statuses_count: 1
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sat Sep 29 15:25:29 +0000 2012
+    default_profile: true
+    default_profile_image: true
+    description: ''
+    entities: &id043
+      description:
+        urls: []
+    favourites_count: 0
+    follow_request_sent: false
+    followers_count: 0
+    following: false
+    friends_count: 1
+    geo_enabled: false
+    has_extended_profile: false
+    id: 853084081
+    id_str: '853084081'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: thankinh211
+    notifications: false
+    profile_background_color: C0DEED
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: thankinh211
+    status: &id044
+      contributors: null
+      coordinates: null
+      created_at: Sat Sep 29 15:26:08 +0000 2012
+      entities: &id045
+        hashtags: []
+        symbols: []
+        urls: []
+        user_mentions: []
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 252066741214130176
+      id_str: '252066741214130176'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: und
+      place: null
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: '321'
+      truncated: false
+    statuses_count: 1
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2012-09-29 15:25:29
+  default_profile: true
+  default_profile_image: true
+  description: ''
+  entities: *id043
+  favourites_count: 0
+  follow_request_sent: false
+  followers_count: 0
+  following: false
+  friends_count: 1
+  geo_enabled: false
+  has_extended_profile: false
+  id: 853084081
+  id_str: '853084081'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: thankinh211
+  notifications: false
+  profile_background_color: C0DEED
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: thankinh211
+  status: !!python/object:tweepy.models.Status
+    _json: *id044
+    contributors: null
+    coordinates: null
+    created_at: 2012-09-29 15:26:08
+    entities: *id045
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 252066741214130176
+    id_str: '252066741214130176'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: und
+    place: null
+    retweet_count: 0
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: '321'
+    truncated: false
+  statuses_count: 1
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Tue Apr 26 04:10:50 +0000 2016
+    default_profile: true
+    default_profile_image: false
+    description: "Love code and white coffee! \U0001F600"
+    entities: &id046
+      description:
+        urls: []
+    favourites_count: 6
+    follow_request_sent: false
+    followers_count: 7
+    following: false
+    friends_count: 80
+    geo_enabled: false
+    has_extended_profile: true
+    id: 724812958879092738
+    id_str: '724812958879092738'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: Clite Tailor
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/724812958879092738/1494857552
+    profile_image_url: http://pbs.twimg.com/profile_images/864120143319777285/BB4j6CTq_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/864120143319777285/BB4j6CTq_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: clitetailor
+    status: &id047
+      contributors: null
+      coordinates: null
+      created_at: Sat Feb 17 11:22:42 +0000 2018
+      entities: &id048
+        hashtags:
+        - indices:
+          - 34
+          - 44
+          text: OnPatreon
+        symbols: []
+        urls:
+        - display_url: "patreon.com/clitetailor?ut\u2026"
+          expanded_url: https://patreon.com/clitetailor?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare2
+          indices:
+          - 45
+          - 68
+          url: https://t.co/FQMhfiK3Bm
+        user_mentions:
+        - id: 724812958879092738
+          id_str: '724812958879092738'
+          indices:
+          - 8
+          - 20
+          name: Clite Tailor
+          screen_name: clitetailor
+        - id: 1228325660
+          id_str: '1228325660'
+          indices:
+          - 24
+          - 32
+          name: Patreon
+          screen_name: Patreon
+      favorite_count: 1
+      favorited: false
+      geo: null
+      id: 964822408497479687
+      id_str: '964822408497479687'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+      text: 'Support @clitetailor on @patreon. #OnPatreon https://t.co/FQMhfiK3Bm'
+      truncated: false
+    statuses_count: 2
+    time_zone: Pacific Time (US & Canada)
+    translator_type: none
+    url: null
+    utc_offset: -25200
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2016-04-26 04:10:50
+  default_profile: true
+  default_profile_image: false
+  description: "Love code and white coffee! \U0001F600"
+  entities: *id046
+  favourites_count: 6
+  follow_request_sent: false
+  followers_count: 7
+  following: false
+  friends_count: 80
+  geo_enabled: false
+  has_extended_profile: true
+  id: 724812958879092738
+  id_str: '724812958879092738'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: Clite Tailor
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/724812958879092738/1494857552
+  profile_image_url: http://pbs.twimg.com/profile_images/864120143319777285/BB4j6CTq_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/864120143319777285/BB4j6CTq_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: clitetailor
+  status: !!python/object:tweepy.models.Status
+    _json: *id047
+    contributors: null
+    coordinates: null
+    created_at: 2018-02-17 11:22:42
+    entities: *id048
+    favorite_count: 1
+    favorited: false
+    geo: null
+    id: 964822408497479687
+    id_str: '964822408497479687'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter Web Client
+    source_url: http://twitter.com
+    text: 'Support @clitetailor on @patreon. #OnPatreon https://t.co/FQMhfiK3Bm'
+    truncated: false
+  statuses_count: 2
+  time_zone: Pacific Time (US & Canada)
+  translator_type: none
+  url: null
+  utc_offset: -25200
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Wed Oct 31 05:03:29 +0000 2012
+    default_profile: false
+    default_profile_image: false
+    description: Computer Scientist/Entrepreneur @Cornell @PKU1898 @CarnegieMellon
+      @HKUniversity @CUBoulder. Saving the world, one vacation at a time.
+    entities: &id049
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: jasondou.org
+          expanded_url: http://jasondou.org
+          indices:
+          - 0
+          - 23
+          url: https://t.co/3lXEYf9Ugu
+    favourites_count: 1858
+    follow_request_sent: false
+    followers_count: 849
+    following: false
+    friends_count: 3888
+    geo_enabled: true
+    has_extended_profile: false
+    id: 916177789
+    id_str: '916177789'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 11
+    live_following: false
+    location: Cambridge, MA
+    muting: false
+    name: Jason Dou
+    notifications: false
+    profile_background_color: '000000'
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/916177789/1522886354
+    profile_image_url: http://pbs.twimg.com/profile_images/979392750104862720/IO7QW_pr_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/979392750104862720/IO7QW_pr_normal.jpg
+    profile_link_color: 1B95E0
+    profile_sidebar_border_color: '000000'
+    profile_sidebar_fill_color: '000000'
+    profile_text_color: '000000'
+    profile_use_background_image: false
+    protected: false
+    screen_name: JasonDou1
+    status: &id050
+      contributors: null
+      coordinates: null
+      created_at: Sun Apr 15 03:16:01 +0000 2018
+      entities: &id051
+        hashtags: []
+        symbols: []
+        urls:
+        - display_url: youtu.be/yO1x3PooJso
+          expanded_url: https://youtu.be/yO1x3PooJso
+          indices:
+          - 46
+          - 69
+          url: https://t.co/eUdues6LQj
+        user_mentions:
+        - id: 10228272
+          id_str: '10228272'
+          indices:
+          - 74
+          - 82
+          name: YouTube
+          screen_name: YouTube
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 985356041260011520
+      id_str: '985356041260011520'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: ja
+      place:
+        attributes: &id052 {}
+        bounding_box:
+          coordinates: &id053
+          - - - -71.160356
+              - 42.352429
+            - - -71.064398
+              - 42.352429
+            - - -71.064398
+              - 42.4039663
+            - - -71.160356
+              - 42.4039663
+          type: Polygon
+        contained_within: []
+        country: United States
+        country_code: US
+        full_name: Cambridge, MA
+        id: 8193d87541f11dfb
+        name: Cambridge
+        place_type: city
+        url: https://api.twitter.com/1.1/geo/id/8193d87541f11dfb.json
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter
+        for iPad</a>
+      text: "20160518\u300ADreamMaker\u300B\uFF08\u9020\u68A6\u8005\uFF09\u82F1\u6587\
+        \u7248\u6B63\u7247English version https://t.co/eUdues6LQj via @YouTube"
+      truncated: false
+    statuses_count: 2040
+    time_zone: Eastern Time (US & Canada)
+    translator_type: none
+    url: https://t.co/3lXEYf9Ugu
+    utc_offset: -14400
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2012-10-31 05:03:29
+  default_profile: false
+  default_profile_image: false
+  description: Computer Scientist/Entrepreneur @Cornell @PKU1898 @CarnegieMellon @HKUniversity
+    @CUBoulder. Saving the world, one vacation at a time.
+  entities: *id049
+  favourites_count: 1858
+  follow_request_sent: false
+  followers_count: 849
+  following: false
+  friends_count: 3888
+  geo_enabled: true
+  has_extended_profile: false
+  id: 916177789
+  id_str: '916177789'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 11
+  live_following: false
+  location: Cambridge, MA
+  muting: false
+  name: Jason Dou
+  notifications: false
+  profile_background_color: '000000'
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/916177789/1522886354
+  profile_image_url: http://pbs.twimg.com/profile_images/979392750104862720/IO7QW_pr_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/979392750104862720/IO7QW_pr_normal.jpg
+  profile_link_color: 1B95E0
+  profile_sidebar_border_color: '000000'
+  profile_sidebar_fill_color: '000000'
+  profile_text_color: '000000'
+  profile_use_background_image: false
+  protected: false
+  screen_name: JasonDou1
+  status: !!python/object:tweepy.models.Status
+    _json: *id050
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-15 03:16:01
+    entities: *id051
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 985356041260011520
+    id_str: '985356041260011520'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: ja
+    place: !!python/object:tweepy.models.Place
+      attributes: *id052
+      bounding_box: !!python/object:tweepy.models.BoundingBox
+        coordinates: *id053
+        type: Polygon
+      contained_within: !!python/object:tweepy.models.ResultSet
+        _max_id: null
+        _since_id: null
+      country: United States
+      country_code: US
+      full_name: Cambridge, MA
+      id: 8193d87541f11dfb
+      name: Cambridge
+      place_type: city
+      url: https://api.twitter.com/1.1/geo/id/8193d87541f11dfb.json
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter for iPad
+    source_url: http://twitter.com/#!/download/ipad
+    text: "20160518\u300ADreamMaker\u300B\uFF08\u9020\u68A6\u8005\uFF09\u82F1\u6587\
+      \u7248\u6B63\u7247English version https://t.co/eUdues6LQj via @YouTube"
+    truncated: false
+  statuses_count: 2040
+  time_zone: Eastern Time (US & Canada)
+  translator_type: none
+  url: https://t.co/3lXEYf9Ugu
+  utc_offset: -14400
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Wed Sep 03 08:34:32 +0000 2014
+    default_profile: true
+    default_profile_image: true
+    description: ''
+    entities: &id054
+      description:
+        urls: []
+    favourites_count: 14
+    follow_request_sent: false
+    followers_count: 28
+    following: false
+    friends_count: 2013
+    geo_enabled: true
+    has_extended_profile: false
+    id: 2787495858
+    id_str: '2787495858'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 9
+    live_following: false
+    location: ''
+    muting: false
+    name: chandra kant
+    notifications: false
+    profile_background_color: C0DEED
+    profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    profile_background_tile: false
+    profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: cklk90
+    status: &id055
+      contributors: null
+      coordinates: null
+      created_at: Sat Oct 21 03:59:05 +0000 2017
+      entities: &id056
+        hashtags: []
+        symbols: []
+        urls:
+        - display_url: "youtube.com/watch?v=YQqAhW\u2026"
+          expanded_url: https://www.youtube.com/watch?v=YQqAhWdO2XM&feature=share
+          indices:
+          - 48
+          - 71
+          url: https://t.co/8lZjChOypS
+        user_mentions: []
+      favorite_count: 1
+      favorited: false
+      geo: null
+      id: 921586612445757440
+      id_str: '921586612445757440'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: hi
+      place: null
+      possibly_sensitive: false
+      retweet_count: 1
+      retweeted: false
+      source: <a href="http://www.apple.com" rel="nofollow">iOS</a>
+      text: Latest Bhajans by Prembhushanji Maharaj Part -2 https://t.co/8lZjChOypS
+      truncated: false
+    statuses_count: 349
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2014-09-03 08:34:32
+  default_profile: true
+  default_profile_image: true
+  description: ''
+  entities: *id054
+  favourites_count: 14
+  follow_request_sent: false
+  followers_count: 28
+  following: false
+  friends_count: 2013
+  geo_enabled: true
+  has_extended_profile: false
+  id: 2787495858
+  id_str: '2787495858'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 9
+  live_following: false
+  location: ''
+  muting: false
+  name: chandra kant
+  notifications: false
+  profile_background_color: C0DEED
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: cklk90
+  status: !!python/object:tweepy.models.Status
+    _json: *id055
+    contributors: null
+    coordinates: null
+    created_at: 2017-10-21 03:59:05
+    entities: *id056
+    favorite_count: 1
+    favorited: false
+    geo: null
+    id: 921586612445757440
+    id_str: '921586612445757440'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: hi
+    place: null
+    possibly_sensitive: false
+    retweet_count: 1
+    retweeted: false
+    source: iOS
+    source_url: http://www.apple.com
+    text: Latest Bhajans by Prembhushanji Maharaj Part -2 https://t.co/8lZjChOypS
+    truncated: false
+  statuses_count: 349
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Wed Sep 14 07:22:14 +0000 2016
+    default_profile: true
+    default_profile_image: true
+    description: ''
+    entities: &id057
+      description:
+        urls: []
+    favourites_count: 5
+    follow_request_sent: false
+    followers_count: 2
+    following: false
+    friends_count: 80
+    geo_enabled: false
+    has_extended_profile: false
+    id: 775957813658923008
+    id_str: '775957813658923008'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: Thanh Nguyen
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: giongto351
+    status: &id058
+      contributors: null
+      coordinates: null
+      created_at: Mon Mar 05 19:02:05 +0000 2018
+      entities: &id059
+        hashtags: []
+        media:
+        - display_url: pic.twitter.com/kmK5zikayV
+          expanded_url: https://twitter.com/goodfellow_ian/status/969776035649675265/photo/1
+          id: 969776032323534848
+          id_str: '969776032323534848'
+          indices:
+          - 79
+          - 102
+          media_url: http://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+          media_url_https: https://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+          sizes:
+            large:
+              h: 243
+              resize: fit
+              w: 768
+            medium:
+              h: 243
+              resize: fit
+              w: 768
+            small:
+              h: 215
+              resize: fit
+              w: 680
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          source_status_id: 969776035649675265
+          source_status_id_str: '969776035649675265'
+          source_user_id: 775449094739197953
+          source_user_id_str: '775449094739197953'
+          type: photo
+          url: https://t.co/kmK5zikayV
+        symbols: []
+        urls:
+        - display_url: "eff.org/files/2018/02/\u2026"
+          expanded_url: https://www.eff.org/files/2018/02/20/malicious_ai_report_final.pdf
+          indices:
+          - 53
+          - 76
+          url: https://t.co/hlxW3NnTJP
+        user_mentions:
+        - id: 775449094739197953
+          id_str: '775449094739197953'
+          indices:
+          - 3
+          - 18
+          name: Ian Goodfellow
+          screen_name: goodfellow_ian
+      extended_entities: &id060
+        media:
+        - display_url: pic.twitter.com/kmK5zikayV
+          expanded_url: https://twitter.com/goodfellow_ian/status/969776035649675265/photo/1
+          id: 969776032323534848
+          id_str: '969776032323534848'
+          indices:
+          - 79
+          - 102
+          media_url: http://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+          media_url_https: https://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+          sizes:
+            large:
+              h: 243
+              resize: fit
+              w: 768
+            medium:
+              h: 243
+              resize: fit
+              w: 768
+            small:
+              h: 215
+              resize: fit
+              w: 680
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          source_status_id: 969776035649675265
+          source_status_id_str: '969776035649675265'
+          source_user_id: 775449094739197953
+          source_user_id_str: '775449094739197953'
+          type: photo
+          url: https://t.co/kmK5zikayV
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 970736221650432000
+      id_str: '970736221650432000'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 1097
+      retweeted: false
+      retweeted_status: &id061
+        contributors: null
+        coordinates: null
+        created_at: Sat Mar 03 03:26:39 +0000 2018
+        entities: &id062
+          hashtags: []
+          media:
+          - display_url: pic.twitter.com/kmK5zikayV
+            expanded_url: https://twitter.com/goodfellow_ian/status/969776035649675265/photo/1
+            id: 969776032323534848
+            id_str: '969776032323534848'
+            indices:
+            - 59
+            - 82
+            media_url: http://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+            media_url_https: https://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+            sizes:
+              large:
+                h: 243
+                resize: fit
+                w: 768
+              medium:
+                h: 243
+                resize: fit
+                w: 768
+              small:
+                h: 215
+                resize: fit
+                w: 680
+              thumb:
+                h: 150
+                resize: crop
+                w: 150
+            type: photo
+            url: https://t.co/kmK5zikayV
+          symbols: []
+          urls:
+          - display_url: "eff.org/files/2018/02/\u2026"
+            expanded_url: https://www.eff.org/files/2018/02/20/malicious_ai_report_final.pdf
+            indices:
+            - 33
+            - 56
+            url: https://t.co/hlxW3NnTJP
+          user_mentions: []
+        extended_entities: &id063
+          media:
+          - display_url: pic.twitter.com/kmK5zikayV
+            expanded_url: https://twitter.com/goodfellow_ian/status/969776035649675265/photo/1
+            id: 969776032323534848
+            id_str: '969776032323534848'
+            indices:
+            - 59
+            - 82
+            media_url: http://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+            media_url_https: https://pbs.twimg.com/media/DXVWKc5VAAALLwX.jpg
+            sizes:
+              large:
+                h: 243
+                resize: fit
+                w: 768
+              medium:
+                h: 243
+                resize: fit
+                w: 768
+              small:
+                h: 215
+                resize: fit
+                w: 680
+              thumb:
+                h: 150
+                resize: crop
+                w: 150
+            type: photo
+            url: https://t.co/kmK5zikayV
+        favorite_count: 2938
+        favorited: false
+        geo: null
+        id: 969776035649675265
+        id_str: '969776035649675265'
+        in_reply_to_screen_name: null
+        in_reply_to_status_id: null
+        in_reply_to_status_id_str: null
+        in_reply_to_user_id: null
+        in_reply_to_user_id_str: null
+        is_quote_status: false
+        lang: en
+        place: null
+        possibly_sensitive: false
+        retweet_count: 1097
+        retweeted: false
+        source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+          for iPhone</a>
+        text: '4 years of GAN progress (source: https://t.co/hlxW3NnTJP ) https://t.co/kmK5zikayV'
+        truncated: false
+      source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+        for iPhone</a>
+      text: 'RT @goodfellow_ian: 4 years of GAN progress (source: https://t.co/hlxW3NnTJP
+        ) https://t.co/kmK5zikayV'
+      truncated: false
+    statuses_count: 3
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2016-09-14 07:22:14
+  default_profile: true
+  default_profile_image: true
+  description: ''
+  entities: *id057
+  favourites_count: 5
+  follow_request_sent: false
+  followers_count: 2
+  following: false
+  friends_count: 80
+  geo_enabled: false
+  has_extended_profile: false
+  id: 775957813658923008
+  id_str: '775957813658923008'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: Thanh Nguyen
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_image_url: http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: giongto351
+  status: !!python/object:tweepy.models.Status
+    _json: *id058
+    contributors: null
+    coordinates: null
+    created_at: 2018-03-05 19:02:05
+    entities: *id059
+    extended_entities: *id060
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 970736221650432000
+    id_str: '970736221650432000'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: en
+    place: null
+    possibly_sensitive: false
+    retweet_count: 1097
+    retweeted: false
+    retweeted_status: !!python/object:tweepy.models.Status
+      _json: *id061
+      contributors: null
+      coordinates: null
+      created_at: 2018-03-03 03:26:39
+      entities: *id062
+      extended_entities: *id063
+      favorite_count: 2938
+      favorited: false
+      geo: null
+      id: 969776035649675265
+      id_str: '969776035649675265'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: en
+      place: null
+      possibly_sensitive: false
+      retweet_count: 1097
+      retweeted: false
+      source: Twitter for iPhone
+      source_url: http://twitter.com/download/iphone
+      text: '4 years of GAN progress (source: https://t.co/hlxW3NnTJP ) https://t.co/kmK5zikayV'
+      truncated: false
+    source: Twitter for iPhone
+    source_url: http://twitter.com/download/iphone
+    text: 'RT @goodfellow_ian: 4 years of GAN progress (source: https://t.co/hlxW3NnTJP
+      ) https://t.co/kmK5zikayV'
+    truncated: false
+  statuses_count: 3
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Fri Jan 26 15:23:28 +0000 2018
+    default_profile: true
+    default_profile_image: false
+    description: ''
+    entities: &id064
+      description:
+        urls: []
+    favourites_count: 44
+    follow_request_sent: false
+    followers_count: 0
+    following: false
+    friends_count: 3
+    geo_enabled: false
+    has_extended_profile: false
+    id: 956910466554408960
+    id_str: '956910466554408960'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 0
+    live_following: false
+    location: ''
+    muting: false
+    name: hachan
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/957048852682428418/6SFc5FL0_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/957048852682428418/6SFc5FL0_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: hachan36264115
+    status: &id065
+      contributors: null
+      coordinates: null
+      created_at: Sat Jan 27 14:23:06 +0000 2018
+      entities: &id066
+        hashtags:
+        - indices:
+          - 0
+          - 22
+          text: JacksonYeeGrammys2018
+        - indices:
+          - 26
+          - 34
+          text: GRAMMYs
+        - indices:
+          - 35
+          - 46
+          text: Jacksonyee
+        media:
+        - display_url: pic.twitter.com/BOb2tjZZj2
+          expanded_url: https://twitter.com/hachan36264115/status/957257662755889153/photo/1
+          id: 957257640043626496
+          id_str: '957257640043626496'
+          indices:
+          - 47
+          - 70
+          media_url: http://pbs.twimg.com/media/DUjcwHlUQAAuO0G.jpg
+          media_url_https: https://pbs.twimg.com/media/DUjcwHlUQAAuO0G.jpg
+          sizes:
+            large:
+              h: 1035
+              resize: fit
+              w: 690
+            medium:
+              h: 1035
+              resize: fit
+              w: 690
+            small:
+              h: 680
+              resize: fit
+              w: 453
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          type: photo
+          url: https://t.co/BOb2tjZZj2
+        symbols: []
+        urls: []
+        user_mentions: []
+      extended_entities: &id067
+        media:
+        - display_url: pic.twitter.com/BOb2tjZZj2
+          expanded_url: https://twitter.com/hachan36264115/status/957257662755889153/photo/1
+          id: 957257640043626496
+          id_str: '957257640043626496'
+          indices:
+          - 47
+          - 70
+          media_url: http://pbs.twimg.com/media/DUjcwHlUQAAuO0G.jpg
+          media_url_https: https://pbs.twimg.com/media/DUjcwHlUQAAuO0G.jpg
+          sizes:
+            large:
+              h: 1035
+              resize: fit
+              w: 690
+            medium:
+              h: 1035
+              resize: fit
+              w: 690
+            small:
+              h: 680
+              resize: fit
+              w: 453
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          type: photo
+          url: https://t.co/BOb2tjZZj2
+        - display_url: pic.twitter.com/BOb2tjZZj2
+          expanded_url: https://twitter.com/hachan36264115/status/957257662755889153/photo/1
+          id: 957257639628390400
+          id_str: '957257639628390400'
+          indices:
+          - 47
+          - 70
+          media_url: http://pbs.twimg.com/media/DUjcwGCUQAAdoBA.jpg
+          media_url_https: https://pbs.twimg.com/media/DUjcwGCUQAAdoBA.jpg
+          sizes:
+            large:
+              h: 960
+              resize: fit
+              w: 641
+            medium:
+              h: 960
+              resize: fit
+              w: 641
+            small:
+              h: 680
+              resize: fit
+              w: 454
+            thumb:
+              h: 150
+              resize: crop
+              w: 150
+          type: photo
+          url: https://t.co/BOb2tjZZj2
+      favorite_count: 2
+      favorited: false
+      geo: null
+      id: 957257662755889153
+      id_str: '957257662755889153'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: und
+      place: null
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter
+        for iPhone</a>
+      text: '#JacksonYeeGrammys2018    #GRAMMYs #Jacksonyee https://t.co/BOb2tjZZj2'
+      truncated: false
+    statuses_count: 2
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2018-01-26 15:23:28
+  default_profile: true
+  default_profile_image: false
+  description: ''
+  entities: *id064
+  favourites_count: 44
+  follow_request_sent: false
+  followers_count: 0
+  following: false
+  friends_count: 3
+  geo_enabled: false
+  has_extended_profile: false
+  id: 956910466554408960
+  id_str: '956910466554408960'
+  is_translation_enabled: false
+  is_translator: false
+  lang: en
+  listed_count: 0
+  live_following: false
+  location: ''
+  muting: false
+  name: hachan
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_image_url: http://pbs.twimg.com/profile_images/957048852682428418/6SFc5FL0_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/957048852682428418/6SFc5FL0_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: hachan36264115
+  status: !!python/object:tweepy.models.Status
+    _json: *id065
+    contributors: null
+    coordinates: null
+    created_at: 2018-01-27 14:23:06
+    entities: *id066
+    extended_entities: *id067
+    favorite_count: 2
+    favorited: false
+    geo: null
+    id: 957257662755889153
+    id_str: '957257662755889153'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: und
+    place: null
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter for iPhone
+    source_url: http://twitter.com/download/iphone
+    text: '#JacksonYeeGrammys2018    #GRAMMYs #Jacksonyee https://t.co/BOb2tjZZj2'
+    truncated: false
+  statuses_count: 2
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false
+- !!python/object:tweepy.models.User
+  _json:
+    blocked_by: false
+    blocking: false
+    contributors_enabled: false
+    created_at: Sun Apr 03 15:05:33 +0000 2016
+    default_profile: true
+    default_profile_image: false
+    description: "S\u1EA3n xu\u1EA5t c\xE0 ph\xEA nguy\xEAn b\u1EA3n g\u1ED1c thi\xEA\
+      n nhi\xEAn Vi\u1EC7t nam (+84) 272 39 39 399 -(+84) 272 39 39 123"
+    entities: &id068
+      description:
+        urls: []
+      url:
+        urls:
+        - display_url: khoanamcoffee.com.vn
+          expanded_url: http://khoanamcoffee.com.vn
+          indices:
+          - 0
+          - 23
+          url: https://t.co/r0WhsFzmni
+    favourites_count: 2177
+    follow_request_sent: false
+    followers_count: 266
+    following: false
+    friends_count: 2396
+    geo_enabled: true
+    has_extended_profile: true
+    id: 716642801576861696
+    id_str: '716642801576861696'
+    is_translation_enabled: false
+    is_translator: false
+    lang: vi
+    listed_count: 0
+    live_following: false
+    location: "T\xE2n An city Long An, Vi\u1EC7t Nam"
+    muting: false
+    name: COFFEE KHOA NAM
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_banner_url: https://pbs.twimg.com/profile_banners/716642801576861696/1516566065
+    profile_image_url: http://pbs.twimg.com/profile_images/962982083747442688/SSmUaxav_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/962982083747442688/SSmUaxav_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: CoffeeKhoa
+    status: &id069
+      contributors: null
+      coordinates: null
+      created_at: Fri Apr 13 17:42:50 +0000 2018
+      entities: &id070
+        hashtags: []
+        symbols: []
+        urls:
+        - display_url: facebook.com/Cafekn/
+          expanded_url: https://www.facebook.com/Cafekn/
+          indices:
+          - 16
+          - 39
+          url: https://t.co/uxpoWQgcZU
+        user_mentions: []
+      favorite_count: 0
+      favorited: false
+      geo: null
+      id: 984849403805650944
+      id_str: '984849403805650944'
+      in_reply_to_screen_name: null
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+      in_reply_to_user_id: null
+      in_reply_to_user_id_str: null
+      is_quote_status: false
+      lang: tl
+      place:
+        attributes: &id071 {}
+        bounding_box:
+          coordinates: &id072
+          - - - 105.500739
+              - 10.394636
+            - - 106.748939
+              - 10.394636
+            - - 106.748939
+              - 11.032242
+            - - 105.500739
+              - 11.032242
+          type: Polygon
+        contained_within: []
+        country: Vietnam
+        country_code: VN
+        full_name: Long An, Vietnam
+        id: 01f8b6fb1f42f948
+        name: Long An
+        place_type: admin
+        url: https://api.twitter.com/1.1/geo/id/01f8b6fb1f42f948.json
+      possibly_sensitive: false
+      retweet_count: 0
+      retweeted: false
+      source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter
+        for Android</a>
+      text: Khoa Nam Coffee https://t.co/uxpoWQgcZU
+      truncated: false
+    statuses_count: 409
+    time_zone: null
+    translator_type: none
+    url: https://t.co/r0WhsFzmni
+    utc_offset: null
+    verified: false
+  blocked_by: false
+  blocking: false
+  contributors_enabled: false
+  created_at: 2016-04-03 15:05:33
+  default_profile: true
+  default_profile_image: false
+  description: "S\u1EA3n xu\u1EA5t c\xE0 ph\xEA nguy\xEAn b\u1EA3n g\u1ED1c thi\xEA\
+    n nhi\xEAn Vi\u1EC7t nam (+84) 272 39 39 399 -(+84) 272 39 39 123"
+  entities: *id068
+  favourites_count: 2177
+  follow_request_sent: false
+  followers_count: 266
+  following: false
+  friends_count: 2396
+  geo_enabled: true
+  has_extended_profile: true
+  id: 716642801576861696
+  id_str: '716642801576861696'
+  is_translation_enabled: false
+  is_translator: false
+  lang: vi
+  listed_count: 0
+  live_following: false
+  location: "T\xE2n An city Long An, Vi\u1EC7t Nam"
+  muting: false
+  name: COFFEE KHOA NAM
+  notifications: false
+  profile_background_color: F5F8FA
+  profile_background_image_url: null
+  profile_background_image_url_https: null
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/716642801576861696/1516566065
+  profile_image_url: http://pbs.twimg.com/profile_images/962982083747442688/SSmUaxav_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/962982083747442688/SSmUaxav_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: CoffeeKhoa
+  status: !!python/object:tweepy.models.Status
+    _json: *id069
+    contributors: null
+    coordinates: null
+    created_at: 2018-04-13 17:42:50
+    entities: *id070
+    favorite_count: 0
+    favorited: false
+    geo: null
+    id: 984849403805650944
+    id_str: '984849403805650944'
+    in_reply_to_screen_name: null
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    is_quote_status: false
+    lang: tl
+    place: !!python/object:tweepy.models.Place
+      attributes: *id071
+      bounding_box: !!python/object:tweepy.models.BoundingBox
+        coordinates: *id072
+        type: Polygon
+      contained_within: !!python/object:tweepy.models.ResultSet
+        _max_id: null
+        _since_id: null
+      country: Vietnam
+      country_code: VN
+      full_name: Long An, Vietnam
+      id: 01f8b6fb1f42f948
+      name: Long An
+      place_type: admin
+      url: https://api.twitter.com/1.1/geo/id/01f8b6fb1f42f948.json
+    possibly_sensitive: false
+    retweet_count: 0
+    retweeted: false
+    source: Twitter for Android
+    source_url: http://twitter.com/download/android
+    text: Khoa Nam Coffee https://t.co/uxpoWQgcZU
+    truncated: false
+  statuses_count: 409
+  time_zone: null
+  translator_type: none
+  url: https://t.co/r0WhsFzmni
+  utc_offset: null
+  verified: false
+state:
+  _max_id: null
+  _since_id: null
