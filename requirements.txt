@@ -4,3 +4,4 @@ pytest
 pytest-cov
 selenium
 TwitterAPI
+python-twitter
