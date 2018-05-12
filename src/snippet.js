@@ -1,0 +1,5 @@
+Array.from(document.querySelectorAll("span b.u-linkComplex-target"))
+  .map(el => el.textContent)
+  .map(text => "- " + text)
+  .slice(2)
+  .join("\n")

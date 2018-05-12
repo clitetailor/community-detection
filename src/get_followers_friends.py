@@ -22,7 +22,7 @@ def load_screen_names_from_vnnlp():
 
 
 def exists_screen_name(screen_name):
-    return utils.file_exists(f'followers_list/{screen_name}.yaml')
+    return utils.file_exists(f'friends_list/{screen_name}.yaml')
 
 
 def get_screen_names(users):
@@ -30,12 +30,12 @@ def get_screen_names(users):
 
 
 def append_screen_names_to_file(screen_name, screen_names):
-    with open(f'followers_list/{screen_name}.yaml', 'a') as output_file:
+    with open(f'friends_list/{screen_name}.yaml', 'a') as output_file:
         yaml.dump(screen_names, output_file, default_flow_style=False)
 
 
 def write_error_to_file(screen_name, e):
-    with open(f'followers_list/{screen_name}.error', 'a') as error_file:
+    with open(f'friends_list/{screen_name}.error', 'a') as error_file:
         error_file.write(str(e))
         error_file.write('\n')
 
