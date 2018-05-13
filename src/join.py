@@ -13,7 +13,7 @@ def main():
         with open(os.path.join('friends_list', f), 'r') as input_file:
             users = yaml.load(input_file)
 
-        if not isinstance(users, list):
+        if not isinstance(users, list) or len(users) > 600:
             continue
 
         for user2 in users:
