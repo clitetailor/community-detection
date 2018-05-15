@@ -1,3 +1,4 @@
+import snap
 import os
 import yaml
 
